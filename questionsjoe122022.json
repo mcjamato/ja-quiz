@@ -1,0 +1,306 @@
+[
+ {
+      "question": "What is the sacred writings of the Isrealites know as ?",
+      "choice1": "Hebrew Bible",
+      "choice2": "Abraham",
+      "choice3": "Exodus",
+      "choice4": "Alphabet",
+      "answer": 1
+    },
+    {
+      "question": "The Islraelites descended from ?",
+      "choice1": "Hebrew Bible",
+      "choice2": "Abraham",
+      "choice3": "Exodus",
+      "choice4": "Alphabet",
+      "answer": 2
+    },
+    {
+      "question": "What was is called when Moses led the Israelites out of Egypt?",
+      "choice1": "Hebrew Bible",
+      "choice2": "Abraham",
+      "choice3": "Exodus",
+      "choice4": "Alphabet",
+      "answer": 3
+    },
+    {
+      "question": "What is the most important contribution of the Phoeniciians?",
+      "choice1": "Hebrew Bible",
+      "choice2": "Abraham",
+      "choice3": "Exodus",
+      "choice4": "Alphabet",
+      "answer": 4
+    },
+    {
+      "question": "The Phoenicians traded across the ____________ Sea",
+      "choice1": "Mediterranean",
+      "choice2": "Nile",
+      "choice3": "Indian",
+      "choice4": "Red",
+      "answer": 1
+    },
+    {
+      "question": "Who led the Israelites in battle to conquer Canaan?",
+      "choice1": "Jesus",
+      "choice2": "God",
+      "choice3": "Joshua",
+      "choice4": "Moses",
+      "answer": 3
+    },
+    {
+      "question": "Who was the king of the Israelites?",
+      "choice1": "King Tut",
+      "choice2": "King Saul",
+      "choice3": "King Charles",
+      "choice4": "King Abraham",
+      "answer": 2
+    },
+    {
+      "question": "Who did the Israelites battle against under King Sauls leadership?",
+      "choice1": "philistines",
+      "choice2": "ogers",
+      "choice3": "phoenicians",
+      "choice4": "Kings",
+      "answer": 1
+    },
+    {
+      "question": "Which king of Israel was a brave warrior, successful leader, and talented poet?",
+      "choice1": "King Tut",
+      "choice2": "King David",
+      "choice3": "King Saul",
+      "choice4": "King Salomon",
+      "answer": 2
+    },
+    {
+      "question": "Why did King Salomon tax his people heavily?",
+      "choice1": "to pay for his toys",
+      "choice2": "to pay for his castle",
+      "choice3": "to pay for costly projects",
+      "choice4": "to pay for his house",
+      "answer": 3
+    },
+    {
+      "question": "Who became king after King David?",
+      "choice1": "King Tut",
+      "choice2": "King David",
+      "choice3": "King Saul",
+      "choice4": "King Salomon",
+      "answer": 4
+    },
+    {
+      "question": "What did the Israelite prophets urge people to do?",
+      "choice1": "follow gods word",
+      "choice2": "pay for his projects",
+      "choice3": "run away",
+      "choice4": "stay warm",
+      "answer": 1
+    },
+    {
+      "question": "The kingdoms of Israel and Judah although separated, __________ the Israelites religion.",
+      "choice1": "kept",
+      "choice2": "studied",
+      "choice3": "preserved",
+      "choice4": "cost",
+      "answer": 3
+    },
+    {
+      "question": "Which Chaldean King captured Jeruselum and punished the Jews in 597 B.C.?",
+      "choice1": "King Nebuchadnezzar",
+      "choice2": "King David",
+      "choice3": "King Saul",
+      "choice4": "King Tut",
+      "answer": 1
+    },
+    {
+      "question": "A sacred song or poem used in worship.",
+      "choice1": "psalm",
+      "choice2": "proverb",
+      "choice3": "exile",
+      "choice4": "prophet",
+      "answer": 1
+    },
+    {
+      "question": "A wise saying",
+      "choice1": "psalm",
+      "choice2": "proverb",
+      "choice3": "exile",
+      "choice4": "prophet",
+      "answer": 2
+    },
+    {
+      "question": "A forced absence from ones home or country",
+      "choice1": "psalm",
+      "choice2": "proverb",
+      "choice3": "exile",
+      "choice4": "prophet",
+      "answer": 3
+    },
+    {
+      "question": "A messenger sent by God to share God's word with people",
+      "choice1": "psalm",
+      "choice2": "proverb",
+      "choice3": "exile",
+      "choice4": "prophet",
+      "answer": 4
+    },
+    {
+      "question": "The doctrine or belief that there is only one God",
+      "choice1": "Monotheism",
+      "choice2": "tribe",
+      "choice3": "exodus",
+      "choice4": "Covenant",
+      "answer": 1
+    },
+    {
+      "question": "A social group made up of families or clans",
+      "choice1": "Monotheism",
+      "choice2": "tribe",
+      "choice3": "exodus",
+      "choice4": "Covenant",
+      "answer": 2
+    },
+    {
+      "question": "A mass departure of people, especially immigrants. ",
+      "choice1": "Monotheism",
+      "choice2": "tribe",
+      "choice3": "exodus",
+      "choice4": "Covenant",
+      "answer": 3
+    },
+    {
+      "question": "An agreement with a God",
+      "choice1": "Torah",
+      "choice2": "commandment",
+      "choice3": "exodus",
+      "choice4": "Covenant",
+      "answer": 4
+    },
+    {
+      "question": "Laws that Moses supposedly received from God",
+      "choice1": "Torah",
+      "choice2": "commandment",
+      "choice3": "alphabet",
+      "choice4": "Covenant",
+      "answer": 1
+    },
+    {
+      "question": "A rule that God wanted the Israelites to follow",
+      "choice1": "Torah",
+      "choice2": "commandment",
+      "choice3": "alphabet",
+      "choice4": "Covenant",
+      "answer": 2
+    },
+    {
+      "question": "A set of letters or other characters used to write a language",
+      "choice1": "Torah",
+      "choice2": "commandment",
+      "choice3": "alphabet",
+      "choice4": "Covenant",
+      "answer": 3
+    },
+    {
+      "question": "How were the Hebrews different than other ancient people",
+      "choice1": "They believed in one God",
+      "choice2": "They believed in many Gods",
+      "choice3": "They believed in two Gods",
+      "choice4": "They believed everyone was God",
+      "answer": 1
+    },
+    {
+      "question": "What were the basic moral principles God wanted the Israelites to follow and were the basis for the moral rules for many nations. ",
+      "choice1": "Torah",
+      "choice2": "Bible",
+      "choice3": "Ten Commandments",
+      "choice4": "Five Commndments",
+      "answer": 3
+    },
+    {
+      "question": "The twelve tribes of Israel were descended from who?",
+      "choice1": "Abraham",
+      "choice2": "Jacob",
+      "choice3": "God",
+      "choice4": "Judah",
+      "answer": 2
+    },
+    {
+      "question": "Whom did the Israelites ask to choose a King for them?",
+      "choice1": "Moses",
+      "choice2": "Jacob",
+      "choice3": "Samual",
+      "choice4": "judah",
+      "answer": 3
+    },
+    {
+      "question": "____________ influenced the later monotheistic religions of christianity in Islam. ",
+      "choice1": "Judaism",
+      "choice2": "Hebrew",
+      "choice3": "God ",
+      "choice4": "Catholic",
+      "answer": 1
+    },
+    {
+      "question": "The leader who built projects",
+      "choice1": "Soloman",
+      "choice2": "David",
+      "choice3": "Saul",
+      "choice4": "Samuel",
+      "answer": 1
+    },
+    {
+      "question": "The leader who killed Goliath",
+      "choice1": "Soloman",
+      "choice2": "David",
+      "choice3": "Saul",
+      "choice4": "Samuel",
+      "answer": 2
+    },
+    {
+      "question": "The leader who defeated the Philistines",
+      "choice1": "Soloman",
+      "choice2": "David",
+      "choice3": "Saul",
+      "choice4": "Samuel",
+      "answer": 3
+    },
+    {
+      "question": "The first Israelites King",
+      "choice1": "Soloman",
+      "choice2": "David",
+      "choice3": "Saul",
+      "choice4": "Samuel",
+      "answer": 4
+    },
+    {
+      "question": "The leader who descended the twelve tribes",
+      "choice1": "Jacob",
+      "choice2": "Moses",
+      "choice3": "Abraham",
+      "choice4": "Moses",
+      "answer": 1
+    },
+    {
+      "question": "Who wrote the Torah and received the Ten Commandments",
+      "choice1": "Jacob",
+      "choice2": "Moses",
+      "choice3": "Abraham",
+      "choice4": "Moses",
+      "answer": 2
+    },
+    {
+      "question": "The people of Israel descende from me, who am I?",
+      "choice1": "Jacob",
+      "choice2": "Moses",
+      "choice3": "Abraham",
+      "choice4": "Moses",
+      "answer": 3
+    },
+    {
+      "question": "Who led the people out of Mesopatamia?",
+      "choice1": "Bill",
+      "choice2": "Jacob",
+      "choice3": "Moses",
+      "choice4": "Abraham",
+      "answer": 4
+    } 
+]
