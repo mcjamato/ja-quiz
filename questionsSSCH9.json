@@ -1,0 +1,123 @@
+
+ [
+    {
+      "question": " A large landmass that is samller than a continent",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 1
+    },
+    {
+      "question": "Seasonal wind,especially in the Indus Ocean and southern Asia ",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 2
+    },
+    {
+      "question": "A group of similar languages.",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 3
+    },
+    {
+      "question": "The first written language of India",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 4
+    },
+    {
+      "question": "Ancient sacred writings of India",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Guru",
+      "choice4": "sanskrit ",
+      "answer": 1
+    },
+    {
+      "question": "And Indian prince",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Guru",
+      "choice4": "Monsoon",
+      "answer": 2
+    },
+    {
+      "question": "A teacher",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Guru",
+      "choice4": "subcontinent ",
+      "answer": 3
+    },
+    {
+      "question": "What are the three most important major rivers in India?",
+      "choice1": "Indus, Ganges and Brahmaputra Rivers",
+      "choice2": "HinduKush and Himalaya.",
+      "choice3": "Oven baked bricks.",
+      "choice4": "Because there were floods and earthquakes ",
+      "answer": 1
+    },
+    {
+      "question": "What are the two mountain ranges that border Ancient India in the North?",
+      "choice1": "Indus, Ganges and Brahmaputra Rivers",
+      "choice2": "HinduKush and Himalaya.",
+      "choice3": "Oven baked bricks.",
+      "choice4": "Aryans",
+      "answer": 2
+    },
+    {
+      "question": "What did the people in the Indus Valley cities make there homes mostly out of",
+      "choice1": "Indus, Ganges and Brahmaputra Rivers",
+      "choice2": "HinduKush and Himalaya.",
+      "choice3": "Oven baked bricks.",
+      "choice4": "Kshatriyas",
+      "answer": 3
+    },
+    {
+      "question": "What caused the people to leave the Indus River Valley cities?",
+      "choice1": "Because there were floods and earthquakes ",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "Indus, Ganges and Brahmaputra Rivers",
+      "answer": 1
+    },
+    {
+      "question": "Who were nomadic people from the North who entered the Indus River Valley around 1500 B.C.",
+      "choice1": "Because there were floods and earthquakes ",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "HinduKush and Himalaya.",
+      "answer": 2
+    },
+    {
+      "question": "Which group from the Varma were warriors and who ran the government and army belongs?",
+      "choice1": "Because there were floods and earthquakes ",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "Oven baked bricks.",
+      "answer": 3
+    },
+    {
+      "question": "The jati system is also know as what system",
+      "choice1": "caste",
+      "choice2": "indian",
+      "choice3": "overton",
+      "choice4": "jati",
+      "answer": 1
+    },
+    {
+      "question": "What are the four social classes of Ancient India called",
+      "choice1": "Varnas",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "jati",
+      "answer": 1
+    }
+  ]
