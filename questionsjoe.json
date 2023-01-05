@@ -1,0 +1,122 @@
+[
+  {
+    "question": "to stare at openly",
+    "choice1": "gawking",
+    "choice2": "glum",
+    "choice3": "duet",
+    "choice4": "ruts",
+    "answer": 1
+  },
+  {
+    "question": "to eat hungrily and quickly",
+    "choice1": "pestering",
+    "choice2": "devour",
+    "choice3": "forfeit",
+    "choice4": "duet",
+    "answer": 2
+  },
+  {
+    "question": "move unsteadily from side to side",
+    "choice1": "duet",
+    "choice2": "demonstrate",
+    "choice3": "wobbled",
+    "choice4": "forfeit",
+    "answer": 3
+  },
+  {
+    "question": "to fool or cheat someone",
+    "choice1": "gawking",
+    "choice2": "glum",
+    "choice3": "forfeit",
+    "choice4": "bamboozled",
+    "answer": 4
+  },
+  {
+    "question": "to annoy or bother",
+    "choice1": "pestering",
+    "choice2": "duet",
+    "choice3": "devour",
+    "choice4": "wobbled",
+    "answer": 1
+  },
+  {
+    "question": "to look or feel sad",
+    "choice1": "tormented",
+    "choice2": "glum",
+    "choice3": "ruts",
+    "choice4": "demonstrate",
+    "answer": 2
+  },
+  {
+    "question": "a long, deep track made by the repeated passage of the wheels of vehicles",
+    "choice1": "bamboozled",
+    "choice2": "tormented",
+    "choice3": "ruts",
+    "choice4": "forfeit",
+    "answer": 3
+  },
+  {
+    "question": "a performance by two people",
+    "choice1": "devour",
+    "choice2": "gawking",
+    "choice3": "demonstrate",
+    "choice4": "duet",
+    "answer": 4
+  },
+  {
+    "question": "dangerous",
+    "choice1": "hazardous",
+    "choice2": "wobbled",
+    "choice3": "glum",
+    "choice4": "depressing",
+    "answer": 1
+  },
+  {
+    "question": "soldiers fighting or marching on foot",
+    "choice1": "duet",
+    "choice2": "infantry",
+    "choice3": "gawking",
+    "choice4": "duet",
+    "answer": 2
+  },
+  {
+    "question": "to fasten something in place",
+    "choice1": "duet",
+    "choice2": "bamboozled",
+    "choice3": "clamped",
+    "choice4": "pestering",
+    "answer": 3
+  },
+  {
+    "question": "to cause suffering",
+    "choice1": "wobbled",
+    "choice2": "devour",
+    "choice3": "depressing",
+    "choice4": "tormented",
+    "answer": 4
+  },
+  {
+    "question": "to lose a right to be penalized",
+    "choice1": "forfeit",
+    "choice2": "glum",
+    "choice3": "duet",
+    "choice4": "pestering",
+    "answer": 1
+  },
+  {
+    "question": "to take part in the form of protest",
+    "choice1": "tormented",
+    "choice2": "demonstrate",
+    "choice3": "wobbled",
+    "choice4": "gawking",
+    "answer": 2
+  },
+  {
+    "question": "to be in a state of unhappiness",
+    "choice1": "demonstrate",
+    "choice2": "duet",
+    "choice3": "depressing",
+    "choice4": "bamboozled",
+    "answer": 3
+  }
+]

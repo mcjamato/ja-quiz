@@ -1,0 +1,163 @@
+[
+  {
+    "question": "What are the 4 Hemispheres?",
+    "choice1": "Northern , Southern, Home, Away",
+    "choice2": "Northern, Southern, Eastern , Western",
+    "choice3": "Eastern, Western, Backward, Forward",
+    "choice4": "Equator, Latitude, Longitude, Meridian",
+    "answer": 2
+  },
+  {
+    "question": "What are the cardinal Directions?",
+    "choice1": "NW, NE, SE, SW",
+    "choice2": "North, East, SouthWest,NorthEast",
+    "choice3": "North, South, East, West",
+    "choice4": "Northpole, Southpole",
+    "answer": 3
+  },
+  {
+    "question": " What is 0 latitude?",
+    "choice1": "Prime Meridian",
+    "choice2": "North Pole",
+    "choice3": "North America",
+    "choice4": "Equator",
+    "answer": 4
+  },
+  {
+    "question": "What is 0 longitude?",
+    "choice1": "Prime Meridian",
+    "choice2": "North Pole",
+    "choice3": "North America",
+    "choice4": "Equator",
+    "answer": 1
+  },
+  {
+    "question": "Lines of longitude are also called ?",
+    "choice1": "parallel lines",
+    "choice2": "Meridians",
+    "choice3": "north lines",
+    "choice4": "south lines",
+    "answer": 2
+  },
+  {
+    "question": " The Equator divides what two Hemispheres?",
+    "choice1": "East and West",
+    "choice2": "South and East",
+    "choice3": "North and West",
+    "choice4": "North and South",
+    "answer": 4
+  },
+  {
+    "question": " The Prime Meridian divides what two Hemispheres?",
+    "choice1": "East and West",
+    "choice2": "South and East",
+    "choice3": "North and West",
+    "choice4": "North and South",
+    "answer": 1
+  },
+  {
+    "question": "What type of map shows natural resources of the earth?",
+    "choice1": "Political",
+    "choice2": "Pocket Map",
+    "choice3": "Scale ",
+    "choice4": "Physical",
+    "answer": 4
+  },
+  {
+    "question": " What type of map shows country borders and names?",
+    "choice1": "Political",
+    "choice2": "Pocket Map",
+    "choice3": "Scale ",
+    "choice4": "Physical",
+    "answer": 1
+  },
+  {
+    "question": " What are four parts of a map?",
+    "choice1": "scale, legend, sun, grid",
+    "choice2": "compass rose, key, water, land",
+    "choice3": "scale, legend, compass rose, title",
+    "choice4": "title, legend, land key",
+    "answer": 3
+  },
+  {
+    "question": " a rise in prices and a drop in the value of money is ?",
+    "choice1": "Recession",
+    "choice2": "Scarcity",
+    "choice3": "Inflation",
+    "choice4": "Resources",
+    "answer": 3
+  },
+  {
+    "question": " a period of slow economic growth or decline",
+    "choice1": "Recession",
+    "choice2": "Scarcity",
+    "choice3": "Inflation",
+    "choice4": "Resources",
+    "answer": 1
+  },
+  {
+    "question": " lack of goods and service",
+    "choice1": "Recession",
+    "choice2": "Scarcity",
+    "choice3": "Inflation",
+    "choice4": "Resources",
+    "answer": 2
+  },
+  {
+    "question": " what are land, labor , entrepenurship, capital",
+    "choice1": "Recession",
+    "choice2": "Scarcity",
+    "choice3": "Inflation",
+    "choice4": "Resources",
+    "answer": 4
+  },
+  {
+    "question": " when you recieve goods",
+    "choice1": "Recession",
+    "choice2": "Import",
+    "choice3": "Export",
+    "choice4": "Resources",
+    "answer": 2
+  },
+  {
+    "question": " when you transport goods out of the country",
+    "choice1": "Import",
+    "choice2": "Scarcity",
+    "choice3": "Inflation",
+    "choice4": "Export",
+    "answer": 4
+  },
+  {
+    "question": " What is determined by the intersection of latitude and longitude lines cross",
+    "choice1": "Equator",
+    "choice2": "Prime Meridian",
+    "choice3": "Absolution Location",
+    "choice4": "Place on the map",
+    "answer": 3
+  },
+  {
+    "question": " Name the intermediate directions",
+    "choice1": "NorthWest, NorthEast, SouthEast, SouthWest",
+    "choice2": "North, East, SouthWest,NorthEast",
+    "choice3": "North, South, East, West",
+    "choice4": "Northpole, Southpole",
+    "answer": 1
+  },
+  {
+    "question": " What is NOT part of a map",
+    "choice1": "Scale",
+    "choice2": "Legend",
+    "choice3": "Compass Flower",
+    "choice4": "Key",
+    "answer": 3
+  },
+  {
+    "question": " Which is NOT one of the 4 Hemispheres",
+    "choice1": "Northern",
+    "choice2": "Southern",
+    "choice3": "NorthEastern",
+    "choice4": "Western",
+    "answer": 3
+  }
+  
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "question": "A group of words that state a complete thought.",
+    "choice1": "interrogative",
+    "choice2": "sentence",
+    "choice3": "exclamatory",
+    "choice4": "declarative",
+    "answer": 2
+  },
+  {
+    "question": "A sentence that makes a statement. ",
+    "choice1": "interrogative",
+    "choice2": "imperative",
+    "choice3": "exclamatory",
+    "choice4": "declarative",
+    "answer": 4
+  },
+  {
+    "question": "A sentence that states a command",
+    "choice1": "interrogative",
+    "choice2": "imperative",
+    "choice3": "exclamatory",
+    "choice4": "declarative",
+    "answer": 2
+  },
+  {
+    "question": "A sentence that expresses strong feelings",
+    "choice1": "interrogative",
+    "choice2": "imperative",
+    "choice3": "exclamatory",
+    "choice4": "declarative",
+    "answer": 3
+  },
+  {
+    "question": "A sentence that asks a question",
+    "choice1": "interrogative",
+    "choice2": "imperative",
+    "choice3": "exclamatory",
+    "choice4": "declarative",
+    "answer": 1
+  },
+  {
+    "question": "a group of words that do not state a complete thought",
+    "choice1": "sentence fragment",
+    "choice2": "sentence",
+    "choice3": "run-on sentence",
+    "choice4": "compound sentence",
+    "answer": 1
+  },
+  {
+    "question": "A sentence where two or more independent clauses are joined together without a word to connect them.",
+    "choice1": "sentence fragment",
+    "choice2": "sentence",
+    "choice3": "run-on sentence",
+    "choice4": "compound sentence",
+    "answer": 3
+  },
+  {
+    "question": "two complete sentences joined together by a conjunction and a comma before the conjunction.",
+    "choice1": "sentence fragment",
+    "choice2": "sentence",
+    "choice3": "run-on sentence",
+    "choice4": "compound sentence",
+    "answer": 4
+  },
+  {
+    "question": "a person, place or thing",
+    "choice1": "noun",
+    "choice2": "proper noun",
+    "choice3": "adjective",
+    "choice4": "plural",
+    "answer": 1
+  },
+  {
+    "question": "names a specific person , place or thing using a capital letter",
+    "choice1": "noun",
+    "choice2": "proper noun",
+    "choice3": "adjective",
+    "choice4": "plural",
+    "answer": 2
+  },
+  {
+    "question": "describes or modifies a noun or proper noun",
+    "choice1": "noun",
+    "choice2": "proper noun",
+    "choice3": "adjective",
+    "choice4": "plural",
+    "answer": 3
+  },
+  {
+    "question": "describes more than one of something",
+    "choice1": "noun",
+    "choice2": "proper noun",
+    "choice3": "adjective",
+    "choice4": "plural",
+    "answer": 4
+  },
+  {
+    "question": "used to connect words or phrases in a sentence",
+    "choice1": "conjunction",
+    "choice2": "possession",
+    "choice3": "verb",
+    "choice4": "article",
+    "answer": 1
+  },
+  {
+    "question": "shows ownership or possession over something",
+    "choice1": "conjunction",
+    "choice2": "possession",
+    "choice3": "verb",
+    "choice4": "article",
+    "answer": 2
+  },
+  {
+    "question": "an action word, or describes a state of being",
+    "choice1": "conjunction",
+    "choice2": "possession",
+    "choice3": "verb",
+    "choice4": "article",
+    "answer": 3
+  },
+  {
+    "question": "a part of speech that indicates a noun is present in a sentence",
+    "choice1": "conjunction",
+    "choice2": "possession",
+    "choice3": "verb",
+    "choice4": "article",
+    "answer": 4
+  },
+  {
+    "question": "uses a comma after words such as for example, of course, ",
+    "choice1": "sentence interrupter",
+    "choice2": "adjectives in a series",
+    "choice3": "interjection",
+    "choice4": "quotation marks",
+    "answer": 1
+  },
+  {
+    "question": "adjectives listed and separated by a comma",
+    "choice1": "sentence interrupter",
+    "choice2": "adjectives in a series",
+    "choice3": "interjection",
+    "choice4": "quotation marks",
+    "answer": 2
+  },
+  {
+    "question": "short exclamation, sometimes inserted into a sentence",
+    "choice1": "sentence interrupter",
+    "choice2": "adjectives in a series",
+    "choice3": "interjection",
+    "choice4": "quotation marks",
+    "answer": 3
+  },
+  {
+    "question": "indicates words are being spoken",
+    "choice1": "sentence interrupter",
+    "choice2": "adjectives in a series",
+    "choice3": "interjection",
+    "choice4": "quotation marks",
+    "answer": 4
+  },
+  {
+    "question": "shows possession or ownership",
+    "choice1": "direct address",
+    "choice2": "contraction",
+    "choice3": "apostrophe",
+    "choice4": "appositive",
+    "answer": 1
+  },
+  {
+    "question": "when two words are combined, letters are omitted and replaced with an apostrophe",
+    "choice1": "direct address",
+    "choice2": "contraction",
+    "choice3": "apostrophe",
+    "choice4": "appositive",
+    "answer": 2
+  },
+  {
+    "question": "renames something using a comma",
+    "choice1": "direct address",
+    "choice2": "contraction",
+    "choice3": "apostrophe",
+    "choice4": "appositive",
+    "answer": 3
+  },
+  {
+    "question": "when addressing a person or people us a comma after",
+    "choice1": "direct address",
+    "choice2": "contraction",
+    "choice3": "apostrophe",
+    "choice4": "appositive",
+    "answer": 4
+  },
+  {
+    "question": "words that sound the same, but have different meanings and spelling",
+    "choice1": "contraction",
+    "choice2": "homophones",
+    "choice3": "apostrophe",
+    "choice4": "appositive",
+    "answer": 2
+  },
+  {
+    "question": "pick the sentence that is written correctly",
+    "choice1": "the first day of school a bizarre new teacher appeared in the east islip middle school in islip terrace new york. ",
+    "choice2": "The first day of school a bizarre new teacher appeared in the East Islip Middle School in Islip Terrace, New York.",
+    "choice3": "The first day of school a bizarre new teacher appeared in the eat islip middle school in Islip Terrace, New York. ",
+    "choice4": "NA",
+    "answer": 2
+  },
+  {
+    "question": "pick the sentence that is written correctly",
+    "choice1": "This bizzare teacher's nose stuck way out on her plain face, and her chin pointed at the floor like a witch's chin. ",
+    "choice2": "This bizzare teachers nose stuck way out on her plane face and her chin pointed at the floor like a witches chin. ",
+    "choice3": "This bizzare teachers nose stuck way out on her plain face  and her chin pointed at the floor like a witch's chin. ",
+    "choice4": "NA",
+    "answer": 1
+  },
+  {
+    "question": "pick the sentence that is written correctly",
+    "choice1": "The teachers spindly arms and legs were so skinny that she looked like a live walking stick with her long nose as the handle. ",
+    "choice2": "The teacher's spindly arms and legs we're so skinny, that she looked like a live walking stick with her long nose as the handle. ",
+    "choice3": "The teacher's spindly arms and legs were so skinny that she looked like a live walking stick with her long nose as the handle. ",
+    "choice4": "NA",
+    "answer": 3
+  },
+  {
+    "question": "pick the sentence that is written correctly",
+    "choice1": "When the sixth grade class at East Islip Middle School in Islip Terrace, New York, took a look at this teacher, they all groaned in utter despair. ",
+    "choice2": "When the s6th grade class at east islip middle school in islip terrace  new york  took a look at this teacher, they all groaned in utter despair. ",
+    "choice3": "When the sixth grade class at East Islip Middle School in Islip Terrace, New York  took a look at this teacher they all groaned in utter despair. ",
+    "choice4": "NA",
+    "answer": 1
+  },
+  {
+    "question": "pick the sentence that is written correctly",
+    "choice1": "How are we going to look at that ugly, disgusting visage all year without throwing up? asked Brian in a quiet voice. ",
+    "choice2": "\"How are we going to look at that ugly disgusting visage all year without throwing up\", asked Brian in a quiet voice. ",
+    "choice3": "\"How are we going to look at that ugly, disgusting visage all year without throwing up?\" asked Brian in a quiet voice. ",
+    "choice4": "NA",
+    "answer": 3
+  },
+  {
+    "question": "pick the sentence that is written correctly",
+    "choice1": "Mrs. Obnoxious, the new teacher, stared at the 2 boys with an evil look and said in a rasping voice \"shut up you nasty boys!\"",
+    "choice2": "Mrs. Obnoxious, the new teacher, stared at the two boys with an evil look and said in a rasping voice,  \"Shut up,  you nasty boys!\"",
+    "choice3": "Mrs. Obnoxious the new teacher stared at the two boys with an evil look and said in a rasping voice \"shut up you nasty boys!\"",
+    "choice4": "NA",
+    "answer": 2
+  },
+  {
+    "question": "type of sentence - saying a statemen (.)",
+    "choice1": "exclamatory",
+    "choice2": "declarative",
+    "choice3": "interrogative",
+    "choice4": "imperative",
+    "answer": 2
+  },
+  {
+    "question": "type of sentence - asking a question (?)",
+    "choice1": "exclamatory",
+    "choice2": "declarative",
+    "choice3": "interrogative",
+    "choice4": "imperative",
+    "answer": 3
+  },
+  {
+    "question": "type of sentence - commanding someone (!)",
+    "choice1": "exclamatory",
+    "choice2": "declarative",
+    "choice3": "interrogative",
+    "choice4": "imperative",
+    "answer": 4
+  },
+  {
+    "question": "type of sentence - shows emotions (!)",
+    "choice1": "exclamatory",
+    "choice2": "declarative",
+    "choice3": "interrogative",
+    "choice4": "imperative",
+    "answer": 1
+  }
+]
