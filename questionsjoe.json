@@ -1,122 +1,124 @@
-[
-  {
-    "question": "to stare at openly",
-    "choice1": "gawking",
-    "choice2": "glum",
-    "choice3": "duet",
-    "choice4": "ruts",
-    "answer": 1
-  },
-  {
-    "question": "to eat hungrily and quickly",
-    "choice1": "pestering",
-    "choice2": "devour",
-    "choice3": "forfeit",
-    "choice4": "duet",
-    "answer": 2
-  },
-  {
-    "question": "move unsteadily from side to side",
-    "choice1": "duet",
-    "choice2": "demonstrate",
-    "choice3": "wobbled",
-    "choice4": "forfeit",
-    "answer": 3
-  },
-  {
-    "question": "to fool or cheat someone",
-    "choice1": "gawking",
-    "choice2": "glum",
-    "choice3": "forfeit",
-    "choice4": "bamboozled",
-    "answer": 4
-  },
-  {
-    "question": "to annoy or bother",
-    "choice1": "pestering",
-    "choice2": "duet",
-    "choice3": "devour",
-    "choice4": "wobbled",
-    "answer": 1
-  },
-  {
-    "question": "to look or feel sad",
-    "choice1": "tormented",
-    "choice2": "glum",
-    "choice3": "ruts",
-    "choice4": "demonstrate",
-    "answer": 2
-  },
-  {
-    "question": "a long, deep track made by the repeated passage of the wheels of vehicles",
-    "choice1": "bamboozled",
-    "choice2": "tormented",
-    "choice3": "ruts",
-    "choice4": "forfeit",
-    "answer": 3
-  },
-  {
-    "question": "a performance by two people",
-    "choice1": "devour",
-    "choice2": "gawking",
-    "choice3": "demonstrate",
-    "choice4": "duet",
-    "answer": 4
-  },
-  {
-    "question": "dangerous",
-    "choice1": "hazardous",
-    "choice2": "wobbled",
-    "choice3": "glum",
-    "choice4": "depressing",
-    "answer": 1
-  },
-  {
-    "question": "soldiers fighting or marching on foot",
-    "choice1": "duet",
-    "choice2": "infantry",
-    "choice3": "gawking",
-    "choice4": "duet",
-    "answer": 2
-  },
-  {
-    "question": "to fasten something in place",
-    "choice1": "duet",
-    "choice2": "bamboozled",
-    "choice3": "clamped",
-    "choice4": "pestering",
-    "answer": 3
-  },
-  {
-    "question": "to cause suffering",
-    "choice1": "wobbled",
-    "choice2": "devour",
-    "choice3": "depressing",
-    "choice4": "tormented",
-    "answer": 4
-  },
-  {
-    "question": "to lose a right to be penalized",
-    "choice1": "forfeit",
-    "choice2": "glum",
-    "choice3": "duet",
-    "choice4": "pestering",
-    "answer": 1
-  },
-  {
-    "question": "to take part in the form of protest",
-    "choice1": "tormented",
-    "choice2": "demonstrate",
-    "choice3": "wobbled",
-    "choice4": "gawking",
-    "answer": 2
-  },
-  {
-    "question": "to be in a state of unhappiness",
-    "choice1": "demonstrate",
-    "choice2": "duet",
-    "choice3": "depressing",
-    "choice4": "bamboozled",
-    "answer": 3
-  }
-]
+
+ [
+      {
+        "question": "The one universal spirit or creator in Hinduism",
+        "choice1": "brahman",
+        "choice2": "hinduism",
+        "choice3": "siddhartha",
+        "choice4": "eightful path",
+        "answer": 1
+      },
+      {
+        "question": "One of the world's oldest religions and is the 3rd largest",
+        "choice1": "brahman",
+        "choice2": "hinduism",
+        "choice3": "siddhartha",
+        "choice4": "eightful path",
+        "answer": 2
+      },
+      {
+        "question": "Who founded Buddhism",
+        "choice1": "brahman",
+        "choice2": "hinduism",
+        "choice3": "siddhartha",
+        "choice4": "eightful path",
+        "answer": 3
+      },
+      {
+        "question": "Rules that you should follow for living right",
+        "choice1": "brahman",
+        "choice2": "hinduism",
+        "choice3": "siddhartha",
+        "choice4": "eightful path",
+        "answer": 4
+      },
+      {
+        "question": "Buddha believed that people can find spiritual truth or enlightment and end their suffering if they stopped",
+        "choice1": "selfish desires",
+        "choice2": "The Thervada and Mahayana",
+        "choice3": "jainism",
+        "choice4": "hinduism",
+        "answer": 1
+      },
+      {
+        "question": "What were the two groups of Buddists who spread the Buddhas ideas southeast Asia.",
+        "choice1": "selfish desires",
+        "choice2": "The Thervada and Mahayana",
+        "choice3": "jainism",
+        "choice4": "hinduism",
+        "answer": 2
+      },
+      {
+        "question": "Besides Buddhism and Hinduism, what is the other Indian faith that developed ",
+        "choice1": "selfish desires",
+        "choice2": "The Thervada and Mahayana",
+        "choice3": "jainism",
+        "choice4": "hinduism",
+        "answer": 3
+      },
+      {
+        "question": "A major religion that developed in Ancient India",
+        "choice1": "selfish desires",
+        "choice2": "The Thervada and Mahayana",
+        "choice3": "jainism",
+        "choice4": "hinduism",
+        "answer": 4
+      },
+      {
+        "question": "The universal spirit worshiped by Hindus",
+        "choice1": "brahman",
+        "choice2": "reincarnation",
+        "choice3": "dharma",
+        "choice4": "karma",
+        "answer": 1
+      },
+      {
+        "question": "The rebirth of the soul",
+        "choice1": "brahman",
+        "choice2": "reincarnation",
+        "choice3": "dharma",
+        "choice4": "karma",
+        "answer": 2
+      },
+      {
+        "question": "A persons personal duty, based on the individuals place in society",
+        "choice1": "brahman",
+        "choice2": "reincarnation",
+        "choice3": "dharma",
+        "choice4": "karma",
+        "answer": 3
+      },
+      {
+        "question": "A force that is created by a persons actions, it determines whether a persons soul will be reborn into a higher or lower form of life",
+        "choice1": "brahman",
+        "choice2": "reincarnation",
+        "choice3": "dharma",
+        "choice4": "karma",
+        "answer": 4
+      },
+      {
+        "question": "A religion founded in Ancient India by the religious teacher Buddha",
+        "choice1": "Buddhism",
+        "choice2": "nervana",
+        "choice3": "jainism",
+        "choice4": "karma",
+        "answer": 1
+      },
+      {
+        "question": "A state of perfect happiness and peace",
+        "choice1": "Buddhism",
+        "choice2": "nervana",
+        "choice3": "jainism",
+        "choice4": "karma",
+        "answer": 2
+      },
+      {
+        "question": "A religion of Ancient India that does not believe in a supreme being,  enphasizes nonviolent and respect for all living things",
+        "choice1": "Buddhism",
+        "choice2": "nervana",
+        "choice3": "jainism",
+        "choice4": "karma",
+        "answer": 3
+      }
+  ]
+  
