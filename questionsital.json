@@ -1,0 +1,140 @@
+[
+  
+  
+      {
+        "question": "What is the weather like?",
+        "choice1": "che tempo fa ?",
+        "choice2": "fa bell tempo",
+        "choice3": "fa fresco",
+        "choice4": "lampeggia",
+        "answer": 1
+      },
+      {
+        "question": "it's nice out",
+        "choice1": "fa freddo",
+        "choice2": "fa bell tempo",
+        "choice3": "fa caldo",
+        "choice4": "tira vento",
+        "answer": 2
+      },
+      {
+        "question": "it's ok out",
+        "choice1": "gradi",
+        "choice2": "fa bell tempo",
+        "choice3": "ne`, bello ne`,brutto",
+        "choice4": "lampeggia",
+        "answer": 3
+      },
+      {
+        "question": "bad weather",
+        "choice1": "tira vento",
+        "choice2": "fa bell tempo",
+        "choice3": "fa freddo",
+        "choice4": "fa brutto tempo",
+        "answer": 4
+      },
+      {
+        "question": "it is sunny",
+        "choice1": "c` e` il sole",
+        "choice2": "Tuono",
+        "choice3": "gradi",
+        "choice4": "nevica",
+        "answer": 1
+      },
+      {
+        "question": "it's cool",
+        "choice1": "nevica",
+        "choice2": "fa fresco",
+        "choice3": "fa caldo",
+        "choice4": "fa freddo",
+        "answer": 2
+      },
+      {
+        "question": "it's cold",
+        "choice1": "nevica",
+        "choice2": "piove",
+        "choice3": "fa freddo",
+        "choice4": "Tuono",
+        "answer": 3
+      },
+      {
+        "question": "it's warm/hot",
+        "choice1": "Tuono",
+        "choice2": "nevica",
+        "choice3": "fa freddo",
+        "choice4": "fa caldo",
+        "answer": 4
+      },
+      {
+        "question": "it's windy",
+        "choice1": "tira vento",
+        "choice2": "ne`, bello ne`,brutto",
+        "choice3": "fa fresco",
+        "choice4": "Tuono",
+        "answer": 1
+      },
+      {
+        "question": "it's windy",
+        "choice1": "fa fresco",
+        "choice2": "c` e` vento",
+        "choice3": "nevica",
+        "choice4": "tira vento",
+        "answer": 2
+      },
+      {
+        "question": "lightning",
+        "choice1": "piove",
+        "choice2": "nevica",
+        "choice3": "lampeggia",
+        "choice4": "Tuono",
+        "answer": 3
+      },
+      {
+        "question": "it's foggy",
+        "choice1": "ne`, bello ne`,brutto",
+        "choice2": "fa fresco",
+        "choice3": "Tuono",
+        "choice4": "E` afoso",
+        "answer": 4
+      },
+      {
+        "question": "it's snowing",
+        "choice1": "nevica",
+        "choice2": "gradi",
+        "choice3": "fa caldo",
+        "choice4": "piove",
+        "answer": 1
+      },
+      {
+        "question": "it's cloudy",
+        "choice1": "fa fresco",
+        "choice2": "E` nuvoloso",
+        "choice3": "ne`, bello ne`,brutto",
+        "choice4": "piove",
+        "answer": 2
+      },
+      {
+        "question": "it thunders",
+        "choice1": "nevica",
+        "choice2": "lampeggia",
+        "choice3": "Tuono",
+        "choice4": "E` nuvoloso",
+        "answer": 3
+      },
+      {
+        "question": "it's raining",
+        "choice1": "fa caldo",
+        "choice2": "nevica",
+        "choice3": "gradi",
+        "choice4": "piove",
+        "answer": 4
+      },
+      {
+        "question": "degrees",
+        "choice1": "gradi",
+        "choice2": "fa bell tempo",
+        "choice3": "lampeggia",
+        "choice4": "tira vento",
+        "answer": 1
+      }
+]
