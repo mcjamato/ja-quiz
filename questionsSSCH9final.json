@@ -1,0 +1,235 @@
+
+ [
+    {
+      "question": " A large landmass that is samller than a continent",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 1
+    },
+    {
+      "question": "Seasonal wind,especially in the Indus Ocean and southern Asia ",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 2
+    },
+    {
+      "question": "A group of similar languages.",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 3
+    },
+    {
+      "question": "The first written language of India",
+      "choice1": "subcontinent ",
+      "choice2": "Monsoon",
+      "choice3": "Language Family",
+      "choice4": "Sanskrit ",
+      "answer": 4
+    },
+    {
+      "question": "Ancient sacred writings of India",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Guru",
+      "choice4": "sanskrit ",
+      "answer": 1
+    },
+    {
+      "question": "And Indian prince",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Guru",
+      "choice4": "Monsoon",
+      "answer": 2
+    },
+    {
+      "question": "A teacher",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Guru",
+      "choice4": "subcontinent ",
+      "answer": 3
+    },
+    {
+      "question": "What are the three most important major rivers in India?",
+      "choice1": "Indus, Ganges and Brahmaputra Rivers",
+      "choice2": "HinduKush and Himalaya.",
+      "choice3": "Oven baked bricks.",
+      "choice4": "Because there were floods and earthquakes ",
+      "answer": 1
+    },
+    {
+      "question": "What are the two mountain ranges that border Ancient India in the North?",
+      "choice1": "Indus, Ganges and Brahmaputra Rivers",
+      "choice2": "HinduKush and Himalaya.",
+      "choice3": "Oven baked bricks.",
+      "choice4": "Aryans",
+      "answer": 2
+    },
+    {
+      "question": "What did the people in the Indus Valley cities make there homes mostly out of",
+      "choice1": "Indus, Ganges and Brahmaputra Rivers",
+      "choice2": "HinduKush and Himalaya.",
+      "choice3": "Oven baked bricks.",
+      "choice4": "Kshatriyas",
+      "answer": 3
+    },
+    {
+      "question": "What caused the people to leave the Indus River Valley cities?",
+      "choice1": "Because there were floods and earthquakes ",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "Indus, Ganges and Brahmaputra Rivers",
+      "answer": 1
+    },
+    {
+      "question": "Who were nomadic people from the North who entered the Indus River Valley around 1500 B.C.",
+      "choice1": "Because there were floods and earthquakes ",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "HinduKush and Himalaya.",
+      "answer": 2
+    },
+    {
+      "question": "Which group from the Varma were warriors and who ran the government and army belongs?",
+      "choice1": "Because there were floods and earthquakes ",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "Oven baked bricks.",
+      "answer": 3
+    },
+    {
+      "question": "The jati system is also know as what system",
+      "choice1": "caste",
+      "choice2": "indian",
+      "choice3": "overton",
+      "choice4": "jati",
+      "answer": 1
+    },
+    {
+      "question": "What are the four social classes of Ancient India called",
+      "choice1": "Varnas",
+      "choice2": "Aryans",
+      "choice3": "Kshatriyas",
+      "choice4": "jati",
+      "answer": 1
+    },
+    {
+      "question": "A major religion that developed in ancient India",
+      "choice1": "Vedas",
+      "choice2": "Raja",
+      "choice3": "Hinduism",
+      "choice4": "subcontinent ",
+      "answer": 3
+    },
+    {
+      "question": "The universal spirit worshipped by Hindus",
+      "choice1": "Brahman",
+      "choice2": "Vedas.",
+      "choice3": "Karma.",
+      "choice4": "Hinduism ",
+      "answer": 1
+    },
+    {
+      "question": "The rebirth of the soul",
+      "choice1": "Karma",
+      "choice2": "Reincarnation",
+      "choice3": "Dharma.",
+      "choice4": "Aryans",
+      "answer": 2
+    },
+    {
+      "question": "A Persons personal duty based on the individuals place in society",
+      "choice1": "Nirvana",
+      "choice2": "Karma",
+      "choice3": "Dharma",
+      "choice4": "Kshatriyas",
+      "answer": 3
+    },
+    {
+      "question": "A religion founded in ancient India by the religious teacher Buddha",
+      "choice1": "Buddhism ",
+      "choice2": "Judiasm",
+      "choice3": "Catholic",
+      "choice4": "Hinduism",
+      "answer": 1
+    },
+    {
+      "question": "A state of perfect happiness and peace.",
+      "choice1": "Love  ",
+      "choice2": "Nirvana",
+      "choice3": "Heaven",
+      "choice4": "Catholic",
+      "answer": 2
+    },
+    {
+      "question": "A religion of ancient India that does not believe in a supreme being.  It emphasizes nonviolent and respect for all living things",
+      "choice1": "Catholic ",
+      "choice2": "Hinduism",
+      "choice3": "Jainism",
+      "choice4": "Buddhism",
+      "answer": 3
+    },
+    {
+      "question": "How often do Monsoons occur in India?",
+      "choice1": "twice a year summer and winter",
+      "choice2": "once a year, summer",
+      "choice3": "never",
+      "choice4": "all the time",
+      "answer": 1
+    },
+    {
+      "question": "A term for skilled craftspeople is ",
+      "choice1": "smartyrs",
+      "choice2": "Aryans",
+      "choice3": "Artisian",
+      "choice4": "jati",
+      "answer": 3
+    },
+    {
+      "question": "To not kill or harm any insect or living thing.",
+      "choice1": "ahisma ",
+      "choice2": "Judiasm",
+      "choice3": "Catholic",
+      "choice4": "Hinduism",
+      "answer": 1
+    },
+    {
+      "question": "The rules for you to have a good life to get to Nirvana.",
+      "choice1": "second light",
+      "choice2": "Eightfold path",
+      "choice3": "Ten Commandments",
+      "choice4": "The Bible",
+      "answer": 2
+    },
+    {
+      "question": "Hinduism is one of the oldest religions and it is the ______ largest religion",
+      "choice1": "fourth ",
+      "choice2": "second",
+      "choice3": "third",
+      "choice4": "fifth",
+      "answer": 3
+    },
+    {
+      "question": "What is the key value of jainism?",
+      "choice1": "ahimsa",
+      "choice2": "be violent",
+      "choice3": "hatred",
+      "choice4": "be kind",
+      "answer": 1
+    },
+    {
+      "question": "Homes in the Indus Valley had what advanced features ",
+      "choice1": "indoor plumbing",
+      "choice2": "wooden roofs",
+      "choice3": "2 story homes",
+      "choice4": "All of the above",
+      "answer": 4
+    }
+  ]
