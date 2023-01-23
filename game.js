@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch('questionsSSCH9final.json')
+fetch('questionsmidterm.json')
     .then((res) => {
         return res.json();
     })
@@ -24,8 +24,8 @@ fetch('questionsSSCH9final.json')
     });
 
 //CONSTANTS
-const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 10;
+const CORRECT_BONUS = 4;
+const MAX_QUESTIONS = 25;
 
 startGame = () => {
     questionCounter = 0;
