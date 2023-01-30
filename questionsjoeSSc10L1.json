@@ -1,0 +1,98 @@
+
+ [
+  {
+    "question": "A military commander exercising civil power by force, usually in a limited area",
+    "choice1": "warlord",
+    "choice2": "aristocrat",
+    "choice3": "ancestor",
+    "choice4": "pictograph",
+    "answer": 1
+  },
+  {
+    "question": "A member of an upper class of society, usually made of hereditary nobility",
+    "choice1": "warlord",
+    "choice2": "aristocrat",
+    "choice3": "ancestor",
+    "choice4": "pictograph",
+    "answer": 2
+  },
+  {
+    "question": "A person that someone is descended from ",
+    "choice1": "warlord",
+    "choice2": "aristocrat",
+    "choice3": "ancestor",
+    "choice4": "pictograph",
+    "answer": 3
+  },
+  {
+    "question": "A symbol in a writing system based on pictures",
+    "choice1": "warlord",
+    "choice2": "aristocrat",
+    "choice3": "ancestor",
+    "choice4": "pictograph",
+    "answer": 4
+  },
+  {
+    "question": "A symbol in a writing system that represents a thing or an idea",
+    "choice1": "ideograph",
+    "choice2": "aristocrat",
+    "choice3": "ancestor",
+    "choice4": "pictograph",
+    "answer": 1
+  },
+  {
+    "question": "A group of non-elected government officials",
+    "choice1": "Dao",
+    "choice2": "bureaucracy",
+    "choice3": "ancestor",
+    "choice4": "pictograph",
+    "answer": 2
+  },
+  {
+    "question": "Having title or possession by reason of birth",
+    "choice1": "Dao",
+    "choice2": "Shang",
+    "choice3": "hereditary",
+    "choice4": "pictograph",
+    "answer": 3
+  },
+  {
+    "question": "The belief that the Chinese Kings right to rule came from the gods. ",
+    "choice1": "Dao",
+    "choice2": "Shang",
+    "choice3": "warlord",
+    "choice4": "Mandate of Heaven",
+    "answer": 4
+  },
+  {
+    "question": "Chinese system of beliefs which describes the way a king must rule",
+    "choice1": "Dao",
+    "choice2": "Shang",
+    "choice3": "pictograph and ideograph",
+    "choice4": "pictures and symbols",
+    "answer": 1
+  },
+  {
+    "question": "The first aties in China were built by ",
+    "choice1": "Dao",
+    "choice2": "Shang",
+    "choice4": "pictures and symbols",
+    "answer": 2
+  },
+  {
+    "question": "The ancient Chinese wrote in ",
+    "choice1": "chinese",
+    "choice2": "English",
+    "choice3": "pictograph and ideograph",
+    "choice4": "pictures and symbols",
+    "answer": 3
+  },
+  {
+    "question": "The Zhou Dynasty developed _____________  to help increase farmland.",
+    "choice1": "Mandate of Heaven",
+    "choice2": "English",
+    "choice3": "warlord",
+    "choice4": "irrigation",
+    "answer": 4
+  }
+]
