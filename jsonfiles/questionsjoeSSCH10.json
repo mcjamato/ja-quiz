@@ -1,0 +1,99 @@
+
+ [
+    {
+      "question": " A system of beliefs based on teh teachings of confucius",
+      "choice1": "confucianism",
+      "choice2": "Daoism",
+      "choice3": "Legalism",
+      "choice4": "Hinduism",
+      "answer": 1
+    },
+    {
+      "question": "A Chinese philosophy concerned with obtaining long life and living in harmony with nature",
+      "choice1": "confucianism",
+      "choice2": "Daoism",
+      "choice3": "Legalism",
+      "choice4": "Hinduism",
+      "answer": 2
+    },
+    {
+      "question": "A Chinese philosophy that stressed the importance of laws.",
+      "choice1": "confucianism",
+      "choice2": "Daoism",
+      "choice3": "Legalism",
+      "choice4": "Hinduism",
+      "answer": 3
+    },
+    {
+      "question": "A group of people who are at a similar culture, economic or educational level",
+      "choice1": "ancestor",
+      "choice2": "Family",
+      "choice3": "cult",
+      "choice4": "social class ",
+      "answer": 4
+    },
+    {
+      "question": "The responsibility children have to respect, obey and care for their parents.",
+      "choice1": "filial piety",
+      "choice2": "legalism",
+      "choice3": "Hereditary",
+      "choice4": "Daoism ",
+      "answer": 1
+    },
+    {
+      "question": "A central idea of Confucianism",
+      "choice1": "Vedas",
+      "choice2": "Duty",
+      "choice3": "meditate",
+      "choice4": "an eye for an eye",
+      "answer": 2
+    },
+    {
+      "question": "Confucius believed that people should do their duty and they should place the needs of __________ and _________ above his or her own needs",
+      "choice1": "Kings and queens",
+      "choice2": "kings and princes",
+      "choice3": "communities and family",
+      "choice4": "rulers and slaves ",
+      "answer": 3
+    },
+    {
+      "question": "Who did Chinese farmers serve during wartime?",
+      "choice1": "soldiers",
+      "choice2": "Kings",
+      "choice3": "Queens",
+      "choice4": "Confucius ",
+      "answer": 1
+    },
+    {
+      "question": "Confucianism influenced Chinese _____________ and ______________.",
+      "choice1": "Rulers and slaves",
+      "choice2": "society and government.",
+      "choice3": "Men and women",
+      "choice4": "All of the above",
+      "answer": 2
+    },
+    {
+      "question": "To Confucius, the right way to live was similar to the ____________.",
+      "choice1": "buddhists",
+      "choice2": "Hindu",
+      "choice3": "Golden Rule",
+      "choice4": "Ten commandments",
+      "answer": 3
+    },
+    {
+      "question": "Hanfeizi introduced legalism to ancient China and he believed humans were naturally __________.",
+      "choice1": "evil ",
+      "choice2": "smart",
+      "choice3": "kind",
+      "choice4": "crazy",
+      "answer": 1
+    },
+    {
+      "question": "Some Chinese merchants became wealthy, but they were not ______________ members of society.",
+      "choice1": "helpful ",
+      "choice2": "holy",
+      "choice3": "respected ",
+      "choice4": "American",
+      "answer": 3
+    }  
+  ]
