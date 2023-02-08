@@ -1,0 +1,125 @@
+
+[
+  {
+    "question": "One's family and relations ",
+    "choice1": "kin",
+    "choice2": "prodigy",
+    "choice3": "acquaintance",
+    "choice4": "copacetic",
+    "answer": 1
+  },
+  {
+    "question": "a young person who is unusually talented in some way",
+   "choice1": "kin",
+    "choice2": "prodigy",
+    "choice3": "acquaintance",
+    "choice4": "copacetic",
+    "answer": 2
+  },
+  {
+    "question": "a person one knows slightly, but who is not a close friend",
+    "choice1": "kin",
+    "choice2": "prodigy",
+    "choice3": "acquaintance",
+    "choice4": "copacetic",
+    "answer": 3
+  },
+  {
+    "question": "to think about something carefully ",
+    "choice1": "musings",
+    "choice2": "insinuating",
+    "choice3": "ornery",
+    "choice4": "kin",
+    "answer": 1
+  },
+  {
+    "question": "to say (something, especially something bad or insulting) in an indirect way",
+   "choice1": "musings",
+    "choice2": "insinuating",
+    "choice3": "ornery",
+    "choice4": "copacetic",
+    "answer": 2
+  },
+  {
+    "question": "easily annoyed or angered; difficult to deal with",
+    "choice1": "musings",
+    "choice2": "insinuating",
+    "choice3": "ornery",
+    "choice4": "prodigy",
+    "answer": 3
+  },
+  {
+    "question": "in excellent order",
+    "choice1": "kin",
+    "choice2": "prodigy",
+    "choice3": "acquaintance",
+    "choice4": "copacetic",
+    "answer": 4
+  },
+  {
+    "question": "a child who causes trouble usually in a playful way",
+    "choice1": "scamp",
+    "choice2": "contaminated",
+    "choice3": "compromise",
+    "choice4": "rummaging",
+    "answer": 1
+  },
+  {
+    "question": "to make (something) dangerous, dirty, or impure by adding something harmful or undesirable to it.",
+    "choice1": "scamp",
+    "choice2": "contaminated",
+    "choice3": "compromise",
+    "choice4": "rummaging",
+    "answer": 2
+  },
+  {
+    "question": "a way of reaching an agreement in which each person or group gives up something that was wanted in order to end an argument",
+   "choice1": "scamp",
+    "choice2": "contaminated",
+    "choice3": "compromise",
+    "choice4": "rummaging",
+    "answer": 3
+  },
+  {
+    "question": "make a thorough search to find something",
+   "choice1": "scamp",
+    "choice2": "contaminated",
+    "choice3": "compromise",
+    "choice4": "rummaging",
+    "answer": 4
+  },
+  {
+    "question": "a negative feeling or problem that becomes worse",
+    "choice1": "festering",
+    "choice2": "meddling",
+    "choice3": "bawling",
+    "choice4": "snooping",
+    "answer": 1
+  },
+  {
+    "question": "interfere with something that is not your business",
+    "choice1": "festering",
+    "choice2": "meddling",
+    "choice3": "bawling",
+    "choice4": "snooping",
+    "answer": 2
+  },
+  {
+    "question": "to cry very loudly",
+   "choice1": "festering",
+    "choice2": "meddling",
+    "choice3": "bawling",
+    "choice4": "snooping",
+    "answer": 3
+  },
+  {
+    "question": "to look for private information about someone or something",
+   "choice1": "festering",
+    "choice2": "meddling",
+    "choice3": "bawling",
+    "choice4": "snooping",
+    "answer": 4
+  }
+  
+]
+  
