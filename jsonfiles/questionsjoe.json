@@ -1,124 +1,101 @@
 
 [
   {
-    "question": "a particular way of walking ",
-    "choice1": "gait",
-    "choice2": "britches",
-    "choice3": "muskrat",
-    "choice4": "boxcars",
+    "question": "What is the name of the trade route that stretches from western China to the Mediterranean ",
+    "choice1": "Silk Road",
+    "choice2": "Wall of China",
+    "choice3": "Buddhism",
+    "choice4": "trade highway",
     "answer": 1
   },
   {
-    "question": "Pants (trousers) that do not cover the whole leg",
-    "choice1": "gait",
-    "choice2": "britches",
-    "choice3": "muskrat",
-    "choice4": "boxcars",
+    "question": "What did Emperor Qin finish constructing to keep invaders out?",
+    "choice1": "a moat",
+    "choice2": "Great Wall of China",
+    "choice3": "Pyramid",
+    "choice4": "fence",
     "answer": 2
   },
   {
-    "question": "a North American animal that lives in or near water",
-    "choice1": "gait",
-    "choice2": "britches",
-    "choice3": "muskrat",
+    "question": "How did Qin Shihuangdi help unify China",
+    "choice1": "trade routes",
+    "choice2": "war",
+    "choice3": "new currency",
     "choice4": "boxcars",
     "answer": 3
   },
   {
-    "question": "a section of a train that has a roof and large, sliding doors and that carries goods and supplies rather than people",
-    "choice1": "gait",
-    "choice2": "britches",
-    "choice3": "muskrat",
-    "choice4": "boxcars",
+    "question": "During the Han Dynasty an important technological advance was the invention of ___________",
+    "choice1": "Great Wall ",
+    "choice2": "computers",
+    "choice3": "tools",
+    "choice4": "paper",
     "answer": 4
   },
   {
-    "question": "a short, heavy thick stick that is mainly used by police officers",
-    "choice1": "Billy clubs",
-    "choice2": "alias",
-    "choice3": "gory",
-    "choice4": "accordian",
+    "question": "Who reformed government Civil Services",
+    "choice1": "Han Wudi",
+    "choice2": "Yoda",
+    "choice3": "Qin Shihuangdi",
+    "choice4": "Buddha",
     "answer": 1
   },
   {
-    "question": "an additional name that a person(such as a criminal) sometimes uses",
-    "choice1": "Billy clubs",
-    "choice2": "alias",
-    "choice3": "gory",
-    "choice4": "accordian",
+    "question": "What religion spread along the silk road from India to China?",
+    "choice1": "Judaism",
+    "choice2": "Buddhism",
+    "choice3": "Hinduism",
+    "choice4": "Roman Catholic",
     "answer": 2
   },
   {
-    "question": "Involving a lot of violence and blood",
-    "choice1": "Billy clubs",
-    "choice2": "alias",
-    "choice3": "gory",
-    "choice4": "accordian",
+    "question": "What did General Zhang Qian see during his western exploration that he could use in his calvary",
+    "choice1": "boats",
+    "choice2": "soldiers",
+    "choice3": "horses",
+    "choice4": "guns",
     "answer": 3
   },
   {
-    "question": "a musical instrument that is shaped like a box andthat is held in your hands and played by pulling its sides apart and them pushing them together while pressing buttons and keys",
-    "choice1": "Billy clubs",
-    "choice2": "alias",
-    "choice3": "gory",
-    "choice4": "accordian",
+    "question": "Something, such as coins or paper money, that is used as medium of exchange",
+    "choice1": "paper",
+    "choice2": "goods",
+    "choice3": "shale",
+    "choice4": "currency",
     "answer": 4
   },
   {
-    "question": "a message sent by a telegraph (wire) and delivered in written (printed) form",
-    "choice1": "telegram",
-    "choice2": "slew",
-    "choice3": "paltry",
-    "choice4": "judgmental",
+    "question": "the administrative service of a government",
+    "choice1": "civil service",
+    "choice2": "administrative",
+    "choice3": "judicial",
+    "choice4": "executive",
     "answer": 1
   },
   {
-    "question": "a large number of people or things",
-    "choice1": "telegram",
-    "choice2": "slew",
-    "choice3": "paltry",
-    "choice4": "judgmental",
+    "question": "a farmer who works land owned by someone else and pays rent in cash or as a share of the crop",
+    "choice1": "resident farmer",
+    "choice2": "tenant farmer",
+    "choice3": "hard working farmer",
+    "choice4": "Yellowstone farmer",
     "answer": 2
   },
   {
-    "question": "very small or too small an amount",
-    "choice1": "telegram",
-    "choice2": "slew",
-    "choice3": "paltry",
-    "choice4": "judgmental",
+    "question": "originally a Chinese practice of inserting fine needles through the skin at specific points to treat disease or relieve pain",
+    "choice1": "buddha",
+    "choice2": "home remedy",
+    "choice3": "acupuncture",
+    "choice4": "needle treatment",
     "answer": 3
   },
   {
-    "question": "Disapproving; judging someone too quickly and critically",
-    "choice1": "telegram",
-    "choice2": "slew",
+    "question": "an official who watches others for correct behavior",
+    "choice1": "judge",
+    "choice2": "civilian",
     "choice3": "paltry",
-    "choice4": "judgmental",
+    "choice4": "censor",
     "answer": 4
-  },
-  {
-    "question": "causing feelings of hatred or disgust; repulsive; very bad",
-    "choice1": "loathsome",
-    "choice2": "resourceful",
-    "choice3": "dignity",
-    "choice4": "slew",
-    "answer": 1
-  },
-  {
-    "question": "able to deal well with new or difficult situations and to find solutions to problems",
-    "choice1": "loathsome",
-    "choice2": "resourceful",
-    "choice3": "dignity",
-    "choice4": "paltry",
-    "answer": 2
-  },
-  {
-    "question": "a sense of pride in oneself; self respect",
-    "choice1": "loathsome",
-    "choice2": "resourceful",
-    "choice3": "dignity",
-    "choice4": "gait",
-    "answer": 3
   }
+  
 ]
   
