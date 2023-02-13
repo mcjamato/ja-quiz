@@ -1,0 +1,275 @@
+
+ [
+    {
+      "question": "A Military commander exercising civil power by force, usually in a limited area",
+      "choice1": "warlord",
+      "choice2": "aristocrat",
+      "choice3": "ancestor",
+      "choice4": "Shang",
+      "answer": 1
+    },
+    {
+      "question": "A member of an upper class of society, usually made of hereditary nobility",
+      "choice1": "warlord",
+      "choice2": "aristocrat",
+      "choice3": "ancestor",
+      "choice4": "Shang",
+      "answer": 2
+    },
+    {
+      "question": "A person that someone is descended from ",
+      "choice1": "warlord",
+      "choice2": "aristocrat",
+      "choice3": "ancestor",
+      "choice4": "Shang",
+      "answer": 3
+    },
+    {
+      "question": "A symbol in a writing system based on pictures",
+      "choice1": "ideograph",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "pictograph",
+      "answer": 4
+    },
+    {
+      "question": "A symbol in a writing system that represents a thing or an idea",
+      "choice1": "ideograph",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "pictograph",
+      "answer": 1
+    },
+    {
+      "question": "A group of non-elected government officials",
+      "choice1": "warlord",
+      "choice2": "bureaucracy",
+      "choice3": "Daoism",
+      "choice4": "Shang",
+      "answer": 2
+    },
+    {
+      "question": "having title or possession by reason of birth",
+      "choice1": "Dao",
+      "choice2": "bureaucracy",
+      "choice3": "hereditary",
+      "choice4": "Shang",
+      "answer": 3
+    },
+    {
+      "question": "the belief that the Chinese Kings right to rule came from the Gods. ",
+      "choice1": "ideograph",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "Mandate of Heaven",
+      "answer": 4
+    },
+    {
+      "question": "Chinese system of beliefs which describes the way a king must rule. ",
+      "choice1": "Dao",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "pictograph",
+      "answer": 1
+    },
+    {
+      "question": "A system of beliefs based on the teachings of Confucius",
+      "choice1": "ideograph",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "pictograph",
+      "answer": 2
+    },
+    {
+      "question": "A Chinese philosophy concerned with obtaining long life and living in harmony with nature",
+      "choice1": "ideograph",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "pictograph",
+      "answer": 3
+    },
+    {
+      "question": "A Chinese philosophy that stressed the importance of laws",
+      "choice1": "ideograph",
+      "choice2": "Confucianism",
+      "choice3": "Daoism",
+      "choice4": "legalism",
+      "answer": 4
+    },
+    {
+      "question": "A group of people who are at a similar culture, economic, or educational level",
+      "choice1": "social class",
+      "choice2": "bureaucracy",
+      "choice3": "Daoism",
+      "choice4": "Buddhist",
+      "answer": 1
+    },
+    {
+      "question": "The responsibility children have to respect, obey and care for their parents",
+      "choice1": "birth rite",
+      "choice2": "filial piety",
+      "choice3": "Daoism",
+      "choice4": "family tree",
+      "answer": 2
+    },
+    {
+      "question": "An official who watches others for correct behavior",
+      "choice1": "warlord",
+      "choice2": "aristocrat",
+      "choice3": "censor",
+      "choice4": "guard",
+      "answer": 3
+    },
+    {
+      "question": "something, such as coins or paper money, that is used as a medium of exchange. ",
+      "choice1": "civil service",
+      "choice2": "bureaucracy",
+      "choice3": "soldiers",
+      "choice4": "currency",
+      "answer": 4
+    },
+    {
+      "question": "The administrative service of a government.",
+      "choice1": "civil service",
+      "choice2": "Confucianism",
+      "choice3": "Golden Rule",
+      "choice4": "republic",
+      "answer": 1
+    },
+    {
+      "question": "A farmer who works land owned by someone else and pays rent in cash or as a share of the crop.",
+      "choice1": "horses",
+      "choice2": "tenant farmer",
+      "choice3": "Golden Rule",
+      "choice4": "worker",
+      "answer": 2
+    },
+    {
+      "question": "originally a Chinese practice of inserting fine needles through the skin at specific points to treat diseases or relieve pain. ",
+      "choice1": "civil service",
+      "choice2": "massage",
+      "choice3": "accupuncture",
+      "choice4": "torture",
+      "answer": 3
+    },
+    {
+      "question": "The first cities in China were built by _______.",
+      "choice1": "civil service",
+      "choice2": "slaves",
+      "choice3": "soldiers",
+      "choice4": "Shang",
+      "answer": 4
+    },
+    {
+      "question": "The Zhou Dynasty developed __________ to help increase farmland.",
+      "choice1": "irrigation",
+      "choice2": "weapons",
+      "choice3": "Golden Rule",
+      "choice4": "clothes",
+      "answer": 1
+    },
+    {
+      "question": "_______ is the central idea of Confucianism",
+      "choice1": "horses",
+      "choice2": "Duty",
+      "choice3": "Golden Rule",
+      "choice4": "war",
+      "answer": 2
+    },
+    {
+      "question": "Chinese farmers had to serve as _______ during wartime.",
+      "choice1": "Dao",
+      "choice2": "slaves",
+      "choice3": "soldiers",
+      "choice4": "cooks",
+      "answer": 3
+    },
+    {
+      "question": "Confucianism influenced _______________  .",
+      "choice1": "Dao",
+      "choice2": "Buddhism",
+      "choice3": "soldiers",
+      "choice4": "society and government",
+      "answer": 4
+    },
+    {
+      "question": "________ introduced legaslism to ancient China",
+      "choice1": "Hanfeizi",
+      "choice2": "aristocrat",
+      "choice3": "Shang",
+      "choice4": "Buddha",
+      "answer": 1
+    },
+    {
+      "question": "Hanfeizi believed humans were naturally ________.",
+      "choice1": "horses",
+      "choice2": "evil ",
+      "choice3": "happy",
+      "choice4": "nice",
+      "answer": 2
+    },
+    {
+      "question": "What rule states \" do unto others as you would have done to you \"?",
+      "choice1": "ideograph",
+      "choice2": "Karma",
+      "choice3": "Golden Rule",
+      "choice4": "Confucius",
+      "answer": 3
+    },
+    {
+      "question": "What did Emperor Qin finish constructing to keep invaders out?",
+      "choice1": "pyramids",
+      "choice2": "Silk Road",
+      "choice3": "Golden Rule",
+      "choice4": "Great Wall of China",
+      "answer": 4
+    },
+    {
+      "question": "How did Qin Shihuangdi help unify China?",
+      "choice1": "currency",
+      "choice2": "war",
+      "choice3": "irrigation",
+      "choice4": "he took it",
+      "answer": 1
+    },
+    {
+      "question": "During the Han Dynasty, an important technological advance was the invention of ___________.",
+      "choice1": "currency",
+      "choice2": "paper",
+      "choice3": "tools",
+      "choice4": "wheel",
+      "answer": 2
+    },
+    {
+      "question": "Who was the first strong leader for China who reformed the government?",
+      "choice1": "Dao",
+      "choice2": "Shang",
+      "choice3": "Han Wudi",
+      "choice4": "Buddha",
+      "answer": 3
+    },
+    {
+      "question": "What religion spread along the Silk Road from India to China?",
+      "choice1": "ideograph",
+      "choice2": "Hindu",
+      "choice3": "Golden Rule",
+      "choice4": "Buddhism",
+      "answer": 4
+    },
+    {
+      "question": "What did General Zhang Qin see during his western exploration that he could use in his cavalry?",
+      "choice1": "horses",
+      "choice2": "aristocrat",
+      "choice3": "paper",
+      "choice4": "weapons",
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the trade route that stretches from Western China to the Mediterranean?",
+      "choice1": "Happy Trail",
+      "choice2": "Silk Road",
+      "choice3": "Asia routes",
+      "choice4": "MedAsian road",
+      "answer": 2
+    }
+  ]
