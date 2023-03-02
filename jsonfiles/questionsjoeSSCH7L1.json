@@ -1,0 +1,101 @@
+
+[
+  {
+    "question": "What type of landforms DO NOT make up Ancient Greece ",
+    "choice1": "desert",
+    "choice2": "peninsula",
+    "choice3": "mountains",
+    "choice4": "islands",
+    "answer": 1
+  },
+  {
+    "question": "What was the first civilization to arise in Ancient Greece?",
+    "choice1": "gargoyles",
+    "choice2": "minoans",
+    "choice3": "indians",
+    "choice4": "nobles",
+    "answer": 2
+  },
+  {
+    "question": "Why did Mycenaen civilization collapse?",
+    "choice1": "dried up",
+    "choice2": "glaciers",
+    "choice3": "earthquakes",
+    "choice4": "ice age",
+    "answer": 3
+  },
+  {
+    "question": "Why did Mycenaen civilization collapse?",
+    "choice1": "glaciers ",
+    "choice2": "no food source",
+    "choice3": "ice age",
+    "choice4": "civil war",
+    "answer": 4
+  },
+  {
+    "question": "What were important economic activites for the Ancient Greeks",
+    "choice1": "trading and fishing",
+    "choice2": "selling and buying",
+    "choice3": "playing and fighting",
+    "choice4": "walking and selling",
+    "answer": 1
+  },
+  {
+    "question": "Who was in charge of the Greek city-states?,
+    "choice1": "the priests",
+    "choice2": "the nobels",
+    "choice3": "the Gods",
+    "choice4": "the people",
+    "answer": 2
+  },
+  {
+    "question": "A piece of land nearly surrounded by water",
+    "choice1": "island",
+    "choice2": "colony",
+    "choice3": "peninsula",
+    "choice4": "continent",
+    "answer": 3
+  },
+  {
+    "question": "Someone who writes or performs epic poems or stories about heroes and their deeds",
+    "choice1": "author",
+    "choice2": "scribe",
+    "choice3": "writer",
+    "choice4": "Bard",
+    "answer": 4
+  },
+  {
+    "question": "A group of people living in a new territory who have ties to their homeland",
+    "choice1": "colony",
+    "choice2": "tribe",
+    "choice3": "team",
+    "choice4": "neighborhood",
+    "answer": 1
+  },
+  {
+    "question": "A Greek City-State",
+    "choice1": "State",
+    "choice2": "Polis",
+    "choice3": "County",
+    "choice4": "Country",
+    "answer": 2
+  },
+  {
+    "question": "A gathering place; marketplace in Ancient Greece",
+    "choice1": "home",
+    "choice2": "meeting area",
+    "choice3": "Agora",
+    "choice4": "territory",
+    "answer": 3
+  },
+  {
+    "question": "A group of armed foot soldiers in ancient Greece arranged close together in rows",
+    "choice1": "army",
+    "choice2": "platoon",
+    "choice3": "infantry",
+    "choice4": "Phalanx",
+    "answer": 4
+  }
+  
+]
+  
