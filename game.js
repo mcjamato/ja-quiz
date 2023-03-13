@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch('jsonfiles/questionsSSCH7L2.json')
+fetch('jsonfiles/questionsELAlight.json')
     .then((res) => {
         return res.json();
     })
