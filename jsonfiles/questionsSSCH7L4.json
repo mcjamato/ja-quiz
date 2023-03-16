@@ -6,7 +6,7 @@
       "choice2": "Representative Democracy",
       "choice3": "Indirect Democracy",
       "choice4": "Philosopher ",
-      "answer": 1
+      "answer": 2
     },
     {
       "question": "A form of democracy in which all citizens can participate firsthand in the decision-making process ",
@@ -14,7 +14,7 @@
       "choice2": "Representative Democracy",
       "choice3": "Indirect Democracy",
       "choice4": "Philosopher ",
-      "answer": 2
+      "answer": 1
     },
     {
       "question": "A person who searches for wisdom or enlightenment",
@@ -86,7 +86,7 @@
       "choice2": "Indirect",
       "choice3": "Direct",
       "choice4": "Human",
-      "answer": 3
+      "answer": 1
     },
     {
       "question": "What form of Democracy is when all citizens can participate firsthand in the decision-making process",
@@ -94,6 +94,6 @@
       "choice2": "Indirect",
       "choice3": "Direct",
       "choice4": "Human",
-      "answer": 1
+      "answer": 3
     }
  ]
