@@ -95,7 +95,91 @@
     "choice3": "infantry",
     "choice4": "Phalanx",
     "answer": 4
-  }
+  },
+  [
+  
+  
+      {
+        "question": "An absolute ruler unrestrained by law is?",
+        "choice1": "Tyrant",
+        "choice2": "Oligarchy",
+        "choice3": "Helots",
+        "choice4": "Ephor",
+        "answer": 1
+      },
+      {
+        "question": "A government in which a small group has control",
+        "choice1": "Tyrant",
+        "choice2": "Oligarchy",
+        "choice3": "Helots",
+        "choice4": "Ephor",
+        "answer": 2
+      },
+      {
+        "question": "A government by the people",
+        "choice1": "Tyrant",
+        "choice2": "Oligarchy",
+        "choice3": "Democracy",
+        "choice4": "Ephor",
+        "answer": 3
+      },
+      {
+        "question": "Enslaved people in Ancient Sparta",
+        "choice1": "Tyrant",
+        "choice2": "Oligarchy",
+        "choice3": "Helots",
+        "choice4": "Ephor",
+        "answer": 3
+      },
+      {
+        "question": "A high-ranked government official in Sparta who was elected by the council of elders.",
+        "choice1": "Tyrant",
+        "choice2": "Oligarchy",
+        "choice3": "Helots",
+        "choice4": "Ephor",
+        "answer": 4
+      },
+      {
+        "question": "Around 600 B.C. the political unrest among city-states led this type of leader to take power? ",
+        "choice1": "Ephor",
+        "choice2": "tyrants",
+        "choice3": "helots",
+        "choice4": "oligarchy",
+        "answer": 2
+      },
+      {
+        "question": "the founders of Sparta were the descendents of the __________",
+        "choice1": "Romans",
+        "choice2": "soldiers",
+        "choice3": "Dorians",
+        "choice4": "spartans",
+        "answer": 3
+      },
+      {
+        "question": "Spartan women were trained in what",
+        "choice1": "Sports",
+        "choice2": "Wrestling",
+        "choice3": "throwing the javelin",
+        "choice4": "all of the above",
+        "answer": 4
+      },
+      {
+        "question": "Sparta used their _____________ to prevent future revolt",
+        "choice1": "military",
+        "choice2": "brains",
+        "choice3": "muscles",
+        "choice4": "women",
+        "answer": 1
+      },
+      {
+        "question": "The founders of Athens were the descendants of ___________",
+        "choice1": "spartans",
+        "choice2": "mycenaeans",
+        "choice3": "italians",
+        "choice4": "Americans",
+        "answer": 2
+      }
+]
   
 ]
   
