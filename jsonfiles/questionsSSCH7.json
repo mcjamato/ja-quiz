@@ -96,8 +96,6 @@
     "choice4": "Phalanx",
     "answer": 4
   },
-  [
-  
   
       {
         "question": "An absolute ruler unrestrained by law is?",
@@ -178,10 +176,107 @@
         "choice3": "italians",
         "choice4": "Americans",
         "answer": 2
-      }
-]
+      },
+    {
+      "question": " A form of democracy in which citizens elect officials to govern on their behalf",
+      "choice1": "Direct Democracy ",
+      "choice2": "Representative Democracy",
+      "choice3": "Indirect Democracy",
+      "choice4": "Philosopher ",
+      "answer": 2
+    },
+    {
+      "question": "A form of democracy in which all citizens can participate firsthand in the decision-making process ",
+      "choice1": "Direct Democracy ",
+      "choice2": "Representative Democracy",
+      "choice3": "Indirect Democracy",
+      "choice4": "Philosopher ",
+      "answer": 1
+    },
+    {
+      "question": "A person who searches for wisdom or enlightenment",
+      "choice1": "Direct Democracy ",
+      "choice2": "Representative Democracy",
+      "choice3": "Indirect Democracy",
+      "choice4": "Philosopher ",
+      "answer": 4
+    },
+    {
+      "question": "Under whose leadership did Athens experience a Golden Age?",
+      "choice1": "Ceasar ",
+      "choice2": "God",
+      "choice3": "Athena",
+      "choice4": "Pericles ",
+      "answer": 4
+    },
+    {
+      "question": "who could attend school in Athens",
+      "choice1": "boys",
+      "choice2": "girls",
+      "choice3": "everyone",
+      "choice4": "men",
+      "answer": 1
+    },
+    {
+      "question": "whose role in Athnes was to learn how to read, play music and teach at home?",
+      "choice1": "Men",
+      "choice2": "women",
+      "choice3": "grandparents",
+      "choice4": "children ",
+      "answer": 2
+    },
+    {
+      "question": "The Athenian economy was based on what?",
+      "choice1": "Farming",
+      "choice2": "Trade",
+      "choice3": "all of the above",
+      "choice4": "none of the above ",
+      "answer": 3
+    },
+    {
+      "question": "What is the name of the group that served as a protective and defensive league?",
+     "choice1": "Spartan",
+      "choice2": "Athens",
+      "choice3": "Mob",
+      "choice4": "Delian ",
+      "answer": 4
+    },
+    {
+      "question": "who fought in the peloponnesian war?",
+      "choice1": "Sparta and Athens",
+      "choice2": "Greece and Athens",
+      "choice3": "Sparta and Greece",
+      "choice4": "Athens and America",
+      "answer": 1
+    },
+    {
+      "question": "The Athenian __________ was based on farming and trade",
+      "choice1": "life",
+      "choice2": "Economy",
+      "choice3": "Culture",
+      "choice4": "Housing",
+      "answer": 2
+    },
+    {
+      "question": "What form of Democracy is when the citizens elect officials to govern on their behalf",
+      "choice1": "Representative",
+      "choice2": "Indirect",
+      "choice3": "Direct",
+      "choice4": "Human",
+      "answer": 1
+    },
+    {
+      "question": "What form of Democracy is when all citizens can participate firsthand in the decision-making process",
+      "choice1": "Representative",
+      "choice2": "Indirect",
+      "choice3": "Direct",
+      "choice4": "Human",
+      "answer": 3
+    }
+ ]
+
   
-]
+
   
 
     
