@@ -1,1 +1,84 @@
 
+[
+   
+      {
+        "question": "A traditional story that explains the practice or beliefs of a people or something in the natural world",
+        "choice1": "myth",
+        "choice2": "ritual",
+        "choice3": "oracle",
+        "choice4": "fable",
+        "answer": 1
+      },
+      {
+        "question": "Words or actions that are part of a religious ceremony",
+        "choice1": "myth",
+        "choice2": "ritual",
+        "choice3": "oracle",
+        "choice4": "fable",
+        "answer": 2
+      },
+      {
+        "question": "A sacred shrine where a priest or priestess spoke for a god or goddess",
+        "choice1": "myth",
+        "choice2": "ritual",
+        "choice3": "oracle",
+        "choice4": "fable",
+        "answer": 3
+      },
+      {
+        "question": "A story meant to teach a lesson",
+        "choice1": "myth",
+        "choice2": "ritual",
+        "choice3": "oracle",
+        "choice4": "fable",
+        "answer": 4
+      },
+      {
+        "question": "the custom of passing along stories by speech",
+        "choice1": "oral tradition",
+        "choice2": "drama",
+        "choice3": "tragedy",
+        "choice4": "comedy",
+        "answer": 1
+      },
+      {
+        "question": "A story written in the form of a play ",
+         "choice1": "oral tradition",
+        "choice2": "drama",
+        "choice3": "tragedy",
+        "choice4": "comedy",
+        "answer": 2
+      },
+      {
+        "question": "A play or film in which characters fail to overcome serious problems",
+         "choice1": "oral tradition",
+        "choice2": "drama",
+        "choice3": "tragedy",
+        "choice4": "comedy",
+        "answer": 3
+      },
+      {
+        "question": "A play or film that tells a humurous story",
+         "choice1": "oral tradition",
+        "choice2": "drama",
+        "choice3": "tragedy",
+        "choice4": "comedy",
+        "answer": 4
+      },
+      {
+        "question": "The Greek people expressed their religious beliefs through _________",
+        "choice1": "myths",
+        "choice2": "drama",
+        "choice3": "tragedy",
+        "choice4": "comedy",
+        "answer": 1
+      },
+      {
+        "question": "____________ a farmhouse Greek poet wrote the Iliad and the odyseey , epic poems about heroic deeds",
+        "choice1": "Athena",
+        "choice2": "Homer",
+        "choice3": "Mario",
+        "choice4": "Sparta",
+        "answer": 2
+      }
+]
