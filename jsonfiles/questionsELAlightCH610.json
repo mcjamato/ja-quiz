@@ -112,5 +112,125 @@
       "choice3": "Obscures",
       "choice4": "Disintegrate",
       "answer": 2
+    },
+  {
+      "question": "The relaxed teenagers _____________ along the shore.",
+      "choice1": "sauntered",
+      "choice2": "gawk",
+      "choice3": "sneered",
+      "choice4": "mausoleum",
+      "answer": 1
+    },
+    {
+      "question": "Drivers slowed to ____________ at the accident.",
+      "choice1": "sauntered",
+      "choice2": "gawk",
+      "choice3": "sneered",
+      "choice4": "mausoleum",
+      "answer": 2
+    },
+    {
+      "question": "The rock star _________________ at people who liked pop music.",
+      "choice1": "sauntered",
+      "choice2": "gawk",
+      "choice3": "sneered",
+      "choice4": "mausoleum",
+      "answer": 3
+    },
+    {
+      "question": "The King was buried in a ________________ by his followers.",
+      "choice1": "sauntered",
+      "choice2": "gawk",
+      "choice3": "sneered",
+      "choice4": "mausoleum",
+      "answer": 4
+    },
+  {
+      "question": "The ____________ on the hill overlooks the ocean.",
+      "choice1": "pavillion",
+      "choice2": "carnage",
+      "choice3": "gaudy",
+      "choice4": "trident",
+      "answer": 1
+    },
+    {
+      "question": "The battlefield was a scene of terrible _____________.",
+      "choice1": "pavillion",
+      "choice2": "carnage",
+      "choice3": "gaudy",
+      "choice4": "trident",
+      "answer": 2
+    },
+    {
+      "question": "She smelled of cheap perfume and wore _________ clothes.",
+      "choice1": "pavillion",
+      "choice2": "carnage",
+      "choice3": "gaudy",
+      "choice4": "trident",
+      "answer": 3
+    },
+    {
+      "question": "The man used a ___________ to catch fish in the river.",
+      "choice1": "pavillion",
+      "choice2": "carnage",
+      "choice3": "gaudy",
+      "choice4": "trident",
+      "answer": 4
+    },
+  {
+      "question": "The man did not admit his ___________ for the accident.",
+      "choice1": "liability",
+      "choice2": "taunt",
+      "choice3": "quest",
+      "choice4": "ambrosia",
+      "answer": 1
+    },
+    {
+      "question": "The other children used to _________ him because of his eyeglasses.",
+      "choice1": "liability",
+      "choice2": "taunt",
+      "choice3": "quest",
+      "choice4": "ambrosia",
+      "answer": 2
+    },
+    {
+      "question": "They explored the desert on a _____________ for the buried treasure.",
+     "choice1": "liability",
+      "choice2": "taunt",
+      "choice3": "quest",
+      "choice4": "ambrosia",
+      "answer": 3
+    },
+    {
+      "question": "I watched him as he poured the ____________ into the lovely, clear glass.",
+     "choice1": "liability",
+      "choice2": "taunt",
+      "choice3": "quest",
+      "choice4": "ambrosia",
+      "answer": 4
+    },
+  {
+      "question": "The fog __________ the beautiful view of the mountains.",
+      "choice1": "liability",
+      "choice2": "obscured",
+      "choice3": "endure",
+      "choice4": "careened",
+      "answer": 2
+    },
+    {
+      "question": "The pain was almost too great to __________.",
+      "choice1": "liability",
+      "choice2": "obscured",
+      "choice3": "endure",
+      "choice4": "careened",
+      "answer": 3
+    },
+    {
+      "question": "The truck ____________ along a curve on the muddy road.",
+      "choice1": "liability",
+      "choice2": "obscured",
+      "choice3": "endure",
+      "choice4": "careened",
+      "answer": 4
     }    
   ]
