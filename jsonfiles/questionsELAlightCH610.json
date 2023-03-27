@@ -1,1 +1,116 @@
 
+
+ [
+    {
+      "question": " A large burial chamber, usually above ground",
+      "choice1": "Mausoleum ",
+      "choice2": "Pavillion",
+      "choice3": "Saunter",
+      "choice4": "Gawk",
+      "answer": 1
+    },
+    {
+      "question": "a building in a park or garden that usually has open sides and is used for parties, concerts, or other events",
+     "choice1": "Mausoleum ",
+      "choice2": "Pavillion",
+      "choice3": "Saunter",
+      "choice4": "Gawk",
+      "answer": 2
+    },
+    {
+      "question": "to walk along in a slow and relaxed manner",
+      "choice1": "Mausoleum ",
+      "choice2": "Pavillion",
+      "choice3": "Saunter",
+      "choice4": "Gawk",
+      "answer": 3
+    },
+    {
+      "question": "to look with amazement; look stupidly",
+      "choice1": "Mausoleum ",
+      "choice2": "Pavillion",
+      "choice3": "Saunter",
+      "choice4": "Gawk",
+      "answer": 4
+    },
+    {
+      "question": "to smile or laugh at someone or something with an expression on your face that shows dislike and a lack of respect",
+      "choice1": "Sneered",
+      "choice2": "Carnage",
+      "choice3": "Gaudy",
+      "choice4": "Taunt",
+      "answer": 1
+    },
+    {
+      "question": "the killing of many people",
+      "choice1": "Sneered",
+      "choice2": "Carnage",
+      "choice3": "Gaudy",
+      "choice4": "Taunt",
+      "answer": 2
+    },
+    {
+      "question": "too bright and heavily decorated",
+      "choice1": "Sneered",
+      "choice2": "Carnage",
+      "choice3": "Gaudy",
+      "choice4": "Taunt",
+      "answer": 3
+    },
+    {
+      "question": "to say insulting things (mean to someone) in order to make that person angry",
+      "choice1": "Sneered",
+      "choice2": "Carnage",
+      "choice3": "Gaudy",
+      "choice4": "Taunt",
+      "answer": 4
+    },
+    {
+      "question": "A spear that has three points and that looks like a large fork",
+      "choice1": "Trident",
+      "choice2": "Quest",
+      "choice3": "Ambrosia",
+      "choice4": "Obscures",
+      "answer": 1
+    },
+    {
+      "question": "a journey made in search of something",
+      "choice1": "Trident",
+      "choice2": "Quest",
+      "choice3": "Ambrosia",
+      "choice4": "Obscures",
+      "answer": 2
+    },
+    {
+      "question": "the food of the Greek and Roman Gods; a dessert made of oranges and shredded coconut",
+      "choice1": "Trident",
+      "choice2": "Quest",
+      "choice3": "Ambrosia",
+      "choice4": "Obscures",
+      "answer": 3
+    },
+    {
+      "question": "to hide or cover something",
+      "choice1": "Trident",
+      "choice2": "Quest",
+      "choice3": "Ambrosia",
+      "choice4": "Obscures",
+      "answer": 4
+    },
+    {
+      "question": "to experience (pain or suffering) for  along time",
+      "choice1": "Endure",
+      "choice2": "Careened",
+      "choice3": "Obscures",
+      "choice4": "Disintegrate",
+      "answer": 1
+    },
+    {
+      "question": "to go forward quickly without control",
+      "choice1": "Endure",
+      "choice2": "Careened",
+      "choice3": "Obscures",
+      "choice4": "Disintegrate",
+      "answer": 2
+    }    
+  ]
