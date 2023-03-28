@@ -1,1 +1,245 @@
 
+
+
+ [
+    {
+      "question": "Book",
+      "choice1": "Il Libro ",
+      "choice2": "Il Quaderno",
+      "choice3": "Il Foglio di carta",
+      "choice4": "Il Banco",
+      "answer": 1
+    },
+    {
+      "question": "Notebook",
+      "choice1": "Il Libro ",
+      "choice2": "Il Quaderno",
+      "choice3": "Il Foglio di carta",
+      "choice4": "Il Banco",
+      "answer": 2
+    },
+    {
+      "question": "piece of paper",
+      "choice1": "Il Libro ",
+      "choice2": "Il Quaderno",
+      "choice3": "Il Foglio di carta",
+      "choice4": "Il Banco",
+      "answer": 3
+    },
+    {
+      "question": "student's desk",
+      "choice1": "Il Libro ",
+      "choice2": "Il Quaderno",
+      "choice3": "Il Foglio di carta",
+      "choice4": "Il Banco",
+      "answer": 4
+    },
+    {
+      "question": "picture",
+      "choice1": "Il Quadro",
+      "choice2": "Il Cestino",
+      "choice3": "Il Cancellino",
+      "choice4": "Il Gesso",
+      "answer": 1
+    },
+    {
+      "question": "trash can",
+      "choice1": "Il Quadro",
+      "choice2": "Il Cestino",
+      "choice3": "Il Cancellino",
+      "choice4": "Il Gesso",
+      "answer": 2
+    },
+    {
+      "question": "board eraser",
+      "choice1": "Il Quadro",
+      "choice2": "Il Cestino",
+      "choice3": "Il Cancellino",
+      "choice4": "Il Gesso",
+      "answer": 3
+    },
+    {
+      "question": "chalk",
+      "choice1": "Il Quadro",
+      "choice2": "Il Cestino",
+      "choice3": "Il Cancellino",
+      "choice4": "Il Gesso",
+      "answer": 4
+    },
+    {
+      "question": "pencil sharpener",
+      "choice1": "Il Temperamatite",
+      "choice2": "La Penna",
+      "choice3": "La Matita",
+      "choice4": "La Punta",
+      "answer": 1
+    },
+    {
+      "question": "pen",
+      "choice1": "Il Temperamatite",
+      "choice2": "La Penna",
+      "choice3": "La Matita",
+      "choice4": "La Punta",
+      "answer": 2
+    },
+    {
+      "question": "pencil",
+      "choice1": "Il Temperamatite",
+      "choice2": "La Penna",
+      "choice3": "La Matita",
+      "choice4": "La Punta",
+      "answer": 3
+    },
+    {
+      "question": "pointer",
+      "choice1": "Il Temperamatite",
+      "choice2": "La Penna",
+      "choice3": "La Matita",
+      "choice4": "La Punta",
+      "answer": 4
+    },
+    {
+      "question": "chair",
+      "choice1": "La Sedia",
+      "choice2": "La Riga",
+      "choice3": "La Bandiera",
+      "choice4": "La Cattedra",
+      "answer": 1
+    },
+    {
+      "question": "ruler",
+      "choice1": "La Sedia",
+      "choice2": "La Riga",
+      "choice3": "La Bandiera",
+      "choice4": "La Cattedra",
+      "answer": 2
+    },
+  {
+      "question": "flag",
+      "choice1": "La Sedia",
+      "choice2": "La Riga",
+      "choice3": "La Bandiera",
+      "choice4": "La Cattedra",
+      "answer": 3
+    },
+    {
+      "question": "teacher's desk",
+       "choice1": "La Sedia",
+      "choice2": "La Riga",
+      "choice3": "La Bandiera",
+      "choice4": "La Cattedra",
+      "answer": 4
+    },
+    {
+      "question": "pencil eraser",
+      "choice1": "La Gomma",
+      "choice2": "La Lavagna",
+      "choice3": "La Finestra",
+      "choice4": "La Carta Geografica",
+      "answer": 1
+    },
+    {
+      "question": "board, blackboard",
+      "choice1": "La Gomma",
+      "choice2": "La Lavagna",
+      "choice3": "La Finestra",
+      "choice4": "La Carta Geografica",
+      "answer": 2
+    },
+  {
+      "question": "window",
+      "choice1": "La Gomma",
+      "choice2": "La Lavagna",
+      "choice3": "La Finestra",
+      "choice4": "La Carta Geografica",
+      "answer": 3
+    },
+    {
+      "question": "map",
+      "choice1": "La Gomma",
+      "choice2": "La Lavagna",
+      "choice3": "La Finestra",
+      "choice4": "La Carta Geografica",
+      "answer": 4
+    },
+    {
+      "question": "wall.",
+      "choice1": "La Parete",
+      "choice2": "L'Orologio",
+      "choice3": "L'Aula",
+      "choice4": "Lo Scaffale",
+      "answer": 1
+    },
+    {
+      "question": "clock",
+      "choice1": "La Parete",
+      "choice2": "L'Orologio",
+      "choice3": "L'Aula",
+      "choice4": "Lo Scaffale",
+      "answer": 2
+    },
+  {
+      "question": "classroom",
+      "choice1": "La Parete",
+      "choice2": "L'Orologio",
+      "choice3": "L'Aula",
+      "choice4": "Lo Scaffale",
+      "answer": 3
+    },
+    {
+      "question": "shelf",
+      "choice1": "La Parete",
+      "choice2": "L'Orologio",
+      "choice3": "L'Aula",
+      "choice4": "Lo Scaffale",
+      "answer": 4
+    },
+    {
+      "question": "pencil case",
+      "choice1": "L'astuccio",
+      "choice2": "Lo Zaino",
+      "choice3": "La Porta",
+      "choice4": "Lo Stampante",
+      "answer": 1
+    },
+    {
+      "question": "backpack",
+      "choice1": "L'astuccio",
+      "choice2": "Lo Zaino",
+      "choice3": "La Porta",
+      "choice4": "Lo Stampante",
+      "answer": 2
+    },
+  {
+      "question": "door",
+      "choice1": "L'astuccio",
+      "choice2": "Lo Zaino",
+      "choice3": "La Porta",
+      "choice4": "Lo Stampante",
+      "answer": 3
+    },
+    {
+      "question": "printer",
+      "choice1": "L'astuccio",
+      "choice2": "Lo Zaino",
+      "choice3": "La Porta",
+      "choice4": "Lo Stampante",
+      "answer": 4
+    },
+    {
+      "question": "What is it?",
+      "choice1": "Che Cos'e?",
+      "choice2": " E' ",
+      "choice3": "Come Va?",
+      "choice4": "BellaDonna",
+      "answer": 1
+    },
+   {
+      "question": "it is",
+      "choice1": "Che Cos'e?",
+      "choice2": " E' ",
+      "choice3": "Come Va?",
+      "choice4": "BellaDonna",
+      "answer": 2
+    }    
+  ]
