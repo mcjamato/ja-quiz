@@ -80,5 +80,98 @@
         "choice3": "Mario",
         "choice4": "Sparta",
         "answer": 2
+      },
+   
+
+[
+   
+      {
+        "question": "Greek teacher or philosophy, reasoning , and public speaking",
+        "choice1": "sophists",
+        "choice2": "rhetoric",
+        "choice3": "socratic method",
+        "choice4": "hippocratic oath",
+        "answer": 1
+      },
+      {
+        "question": "The study of the basic ideas about society, education, and right and wrong.  Basic beliefs, concepts, and attitudes",
+        "choice1": "philosophy",
+        "choice2": "absolute truth",
+        "choice3": "Plato",
+        "choice4": "Aristotle",
+        "answer": 1
+      },
+      {
+        "question": "the art of public speaking and debate",
+        "choice1": "sophists",
+        "choice2": "rhetoric",
+        "choice3": "socratic method",
+        "choice4": "hippocratic oath",
+        "answer": 2
+      },
+      {
+        "question": "Philosophical method or questioning to gain truth",
+        "choice1": "sophists",
+        "choice2": "rhetoric",
+        "choice3": "socratic method",
+        "choice4": "hippocratic oath",
+        "answer": 3
+      },
+      {
+        "question": "A set of promises about patient care that new electors make when they start practicing medicine",
+        "choice1": "sophists",
+        "choice2": "rhetoric",
+        "choice3": "socratic method",
+        "choice4": "hippocratic oath",
+        "answer": 4
+      },
+      {
+        "question": "what means love and wisdom",
+        "choice1": "philosophy",
+        "choice2": "absolute truth",
+        "choice3": "Plato",
+        "choice4": "Aristotle",
+        "answer": 1
+      },
+      {
+        "question": "Socrates believed in ____________ ",
+        "choice1": "philosophy",
+        "choice2": "absolute truth",
+        "choice3": "Plato",
+        "choice4": "Aristotle",
+        "answer": 2
+      },
+      {
+        "question": "Who was a student of Socrates and wrote in the Republic",
+        "choice1": "philosophy",
+        "choice2": "absolute truth",
+        "choice3": "Plato",
+        "choice4": "Aristotle",
+        "answer": 3
+      },
+      {
+        "question": "Who wrote the book, politics and was a student of Plato",
+         "choice1": "philosophy",
+        "choice2": "absolute truth",
+        "choice3": "Plato",
+        "choice4": "Aristotle",
+        "answer": 4
+      },
+      {
+        "question": "Who is considered the fater of history",
+        "choice1": "Herodotus",
+        "choice2": "Pythagorus",
+        "choice3": "Plato",
+        "choice4": "Socrates",
+        "answer": 1
+      },
+      {
+        "question": "Who taught that the universe was governement by the same laws as music and numbers",
+        "choice1": "Herodotus",
+        "choice2": "Pythagorus",
+        "choice3": "Aristotle",
+        "choice4": "Sparta",
+        "answer": 2
       }
+]
 ]
