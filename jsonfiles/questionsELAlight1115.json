@@ -1,0 +1,243 @@
+
+ [
+    {
+      "question": " doing things or tending to do things suddenly and without careful thought",
+      "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "nostalgic ",
+      "answer": 1
+    },
+    {
+      "question": "rude and showing a lack of respect ",
+     "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "nostalgic ",
+      "answer": 2
+    },
+    {
+      "question": " angered at something wrong or unfair",
+     "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "nostalgic ",
+      "answer": 3
+    },
+    {
+      "question": " pleasure and sadness that is caused by remembering something from the past and wishing that you could experience it again",
+      "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "nostalgic ",
+      "answer": 4
+    },
+    {
+      "question": " making or trying to make someone believe something that is not true",
+      "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " emit ",
+      "answer": 1
+    },
+    {
+      "question": " not done with confidence; uncertain",
+     "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " emit ",
+      "answer": 2
+    },
+    {
+      "question": " to show (a feeling or quality) very clearly",
+      "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " emit ",
+      "answer": 3
+    },
+    {
+      "question": " to give off; to send from a source",
+     "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " emit ",
+      "answer": 4
+    },
+    {
+      "question": " to drop straight down sharply and quickly",
+      "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  temperamental",
+      "answer": 1
+    },
+    {
+      "question": " usually a secret or surprising fact that is made known",
+      "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  temperamental",
+      "answer": 2
+    },
+    {
+      "question": " a plan or offer that is presented to others to consider",
+       "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  temperamental",
+      "answer": 3
+    },
+    {
+      "question": " likely to become upset or angry",
+       "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  temperamental",
+      "answer": 4
+    },
+    {
+      "question": " the strength or force that allows something to continue or to grow stronger or faster",
+      "choice1": "momentum ",
+      "choice2": "defunct",
+      "choice3": "pincers",
+      "choice4": "nostalgic",
+      "answer": 1
+    },
+    {
+      "question": " no longer existing or being used",
+      "choice1": "momentum ",
+      "choice2": "defunct",
+      "choice3": "pincers",
+      "choice4": "nostalgic",
+      "answer": 2
+    },
+    {
+      "question": "a small tool that is used for gripping or holding small objects",
+     "choice1": "momentum ",
+      "choice2": "defunct",
+      "choice3": "pincers",
+      "choice4": "nostalgic",
+      "answer": 3
+    },
+    { 
+      "question": " When I heard my mother's favorite song on the radio, I became ________________ as I remembered her singing me to sleep",
+      "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "nostalgic ",
+      "answer": 4
+    },
+    {
+      "question": " John was being ______________ and shouted the answer without raising his hand ",
+     "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "nostalgic ",
+      "answer": 1
+    },
+    {
+      "question": " Th time of the party is _____________ and subject to change",
+     "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "tentative",
+      "choice4": "nostalgic ",
+      "answer": 3
+    },
+    {
+      "question": " Tom was ________________ often, so it was hard for his friends to trust anything he said",
+      "choice1": " impulsive ",
+      "choice2": "impertinent",
+      "choice3": "indignant",
+      "choice4": "deceitful ",
+      "answer": 4
+    },
+    {
+      "question": " While he never intended to be _______________ he realized people were offended by what he said",
+      "choice1": " impertinent",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " emit ",
+      "answer": 1
+    },
+    {
+      "question": " The bride appeared to _____________ happiness as she walked down the aisle",
+     "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " emit ",
+      "answer": 3
+    },
+    {
+      "question": " The boy became ________________ after the teacher accused him of cheeting",
+      "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " indignant",
+      "choice4": " emit ",
+      "answer": 3
+    },
+    {
+      "question": "  After finishing the race in last place, the man came to the _______________ that he needed to train more intensely.",
+     "choice1": " deceitful",
+      "choice2": " tentative",
+      "choice3": " radiate",
+      "choice4": " revelation ",
+      "answer": 4
+    },
+    {
+      "question": "  The school accepted the ______________ to have an 8th Grade dance in June",
+      "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  temperamental",
+      "answer": 3
+    },
+    {
+      "question": " The car______________ into the deep canyon",
+      "choice1": " plummeted ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  temperamental",
+      "answer": 1
+    },
+    {
+      "question": " Using his _____________, he jumped over the fence",
+       "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  momentum",
+      "choice4": "  temperamental",
+      "answer": 3
+    },
+    {
+      "question": " Crabs normally catch food with their _________________",
+       "choice1": " plummet ",
+      "choice2": "  revelation",
+      "choice3": "  proposition",
+      "choice4": "  pincers",
+      "answer": 4
+    },
+    {
+      "question": "  The animal will ___________ a loud, screeching noise when it is attacked",
+      "choice1": " emit ",
+      "choice2": "defunct",
+      "choice3": "pincers",
+      "choice4": "nostalgic",
+      "answer": 1
+    },
+    {
+      "question": " The difficult actress was konwn for being _____________________ to work with",
+      "choice1": "momentum ",
+      "choice2": "temperamental",
+      "choice3": "pincers",
+      "choice4": "nostalgic",
+      "answer": 2
+    },
+    {
+      "question": " The CD players are now considered _______________ by many young people",
+     "choice1": "momentum ",
+      "choice2": "defunct",
+      "choice3": "pincers",
+      "choice4": "nostalgic",
+      "answer": 2
+    }
+  ]
