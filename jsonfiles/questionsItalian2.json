@@ -1,1 +1,358 @@
 
+
+
+
+ [
+    {
+      "question": "Stand up",
+      "choice1": " Alzati! ",
+      "choice2": "Siediti!",
+      "choice3": " Gira!",
+      "choice4": " Salta!",
+      "answer": 1
+    },
+    {
+      "question": " Sit down",
+      "choice1": " Alzati! ",
+      "choice2": "Siediti!",
+      "choice3": " Gira!",
+      "choice4": " Salta!",
+      "answer": 2
+    },
+    {
+      "question": " turn around",
+      "choice1": " Alzati! ",
+      "choice2": "Siediti!",
+      "choice3": " Gira!",
+      "choice4": " Salta!",
+      "answer": 3
+    },
+    {
+      "question": " jump",
+      "choice1": " Alzati! ",
+      "choice2": "Siediti!",
+      "choice3": " Gira!",
+      "choice4": " Salta!",
+      "answer": 4
+    },
+    {
+      "question": "walk",
+      "choice1": " Cammina!",
+      "choice2": " Balla!",
+      "choice3": "Tocca!",
+      "choice4": "Apri!",
+      "answer": 1
+    },
+    {
+      "question": "Dance",
+       "choice1": " Cammina!",
+      "choice2": " Balla!",
+      "choice3": "Tocca!",
+      "choice4": "Apri!",
+      "answer": 2
+    },
+    {
+      "question": " touch",
+      "choice1": " Cammina!",
+      "choice2": " Balla!",
+      "choice3": "Tocca!",
+      "choice4": "Apri!",
+      "answer": 3
+    },
+    {
+      "question": " open ",
+       "choice1": " Cammina!",
+      "choice2": " Balla!",
+      "choice3": "Tocca!",
+      "choice4": "Apri!",
+      "answer": 4
+    },
+    {
+      "question": " close ",
+      "choice1": " Chuidi!",
+      "choice2": " Scrivi!",
+      "choice3": "Parla!",
+      "choice4": "Repeti!",
+      "answer": 1
+    },
+    {
+      "question": " write ",
+     "choice1": " Chuidi!",
+      "choice2": " Scrivi!",
+      "choice3": "Parla!",
+      "choice4": "Repeti!",
+      "answer": 2
+    },
+    {
+      "question": "talk / speak",
+      "choice1": " Chuidi!",
+      "choice2": " Scrivi!",
+      "choice3": "Parla!",
+      "choice4": "Repeti!",
+      "answer": 3
+    },
+    {
+      "question": "repeat",
+      "choice1": " Chuidi!",
+      "choice2": " Scrivi!",
+      "choice3": "Parla!",
+      "choice4": "Repeti!",
+      "answer": 4
+    },
+    {
+      "question": "take the pen",
+      "choice1": "Prendi la penna",
+      "choice2": "Prendi la matita",
+      "choice3": "Prendi il foglio di carta",
+      "choice4": "Prendi il compito",
+      "answer": 1
+    },
+    {
+      "question": "take the pencil",
+       "choice1": "Prendi la penna",
+      "choice2": "Prendi la matita",
+      "choice3": "Prendi il foglio di carta",
+      "choice4": "Prendi il compito",
+      "answer": 2
+    },
+  {
+      "question": "take the piece of paper",
+       "choice1": "Prendi la penna",
+      "choice2": "Prendi la matita",
+      "choice3": "Prendi il foglio di carta",
+      "choice4": "Prendi il compito",
+      "answer": 3
+    },
+    {
+      "question": "take the homework",
+       "choice1": "Prendi la penna",
+      "choice2": "Prendi la matita",
+      "choice3": "Prendi il foglio di carta",
+      "choice4": "Prendi il compito",
+      "answer": 4
+    },
+    {
+      "question": "say it ",
+      "choice1": "Dillo!",
+      "choice2": "Leggi!",
+      "choice3": "Scrivi!",
+      "choice4": "Traduci!",
+      "answer": 1
+    },
+    {
+      "question": "read",
+      "choice1": "Dillo!",
+      "choice2": "Leggi!",
+      "choice3": "Scrivi!",
+      "choice4": "Traduci!",
+      "answer": 2
+    },
+  {
+      "question": "write",
+      "choice1": "Dillo!",
+      "choice2": "Leggi!",
+      "choice3": "Scrivi!",
+      "choice4": "Traduci!",
+      "answer": 3
+    },
+    {
+      "question": "translate",
+      "choice1": "Dillo!",
+      "choice2": "Leggi!",
+      "choice3": "Scrivi!",
+      "choice4": "Traduci!",
+      "answer": 4
+    },
+    {
+      "question": "say it in italian",
+      "choice1": "Dillo in italiano!",
+      "choice2": "Dillo in inglese!",
+      "choice3": "Dillo in spagnolo",
+      "choice4": "Dillo in francese",
+      "answer": 1
+    },
+    {
+      "question": "say it in english",
+      "choice1": "Dillo in italiano!",
+      "choice2": "Dillo in inglese!",
+      "choice3": "Dillo in spagnolo",
+      "choice4": "Dillo in francese",
+      "answer": 2
+    },
+  {
+      "question": "say it in spanish",
+       "choice1": "Dillo in italiano!",
+      "choice2": "Dillo in inglese!",
+      "choice3": "Dillo in spagnolo",
+      "choice4": "Dillo in francese",
+      "answer": 3
+    },
+    {
+      "question": "complete the sentence",
+       "choice1": "Dillo in italiano!",
+      "choice2": "Dillo in inglese!",
+      "choice3": "Dillo in spagnolo",
+      "choice4": "completa le frasi",
+      "answer": 4
+    },
+    {
+      "question": "go!",
+      "choice1": "Va!",
+      "choice2": "Aspetta!",
+      "choice3": "Ascolta!",
+      "choice4": "Guarda!",
+      "answer": 1
+    },
+    {
+      "question": "wait",
+     "choice1": "Va!",
+      "choice2": "Aspetta!",
+      "choice3": "Ascolta!",
+      "choice4": "Guarda!",
+      "answer": 2
+    },
+  {
+      "question": "Listen",
+     "choice1": "Va!",
+      "choice2": "Aspetta!",
+      "choice3": "Ascolta!",
+      "choice4": "Guarda!",
+      "answer": 3
+    },
+    {
+      "question": "look ",
+      "choice1": "Va!",
+      "choice2": "Aspetta!",
+      "choice3": "Ascolta!",
+      "choice4": "Guarda!",
+      "answer": 4
+    },
+    {
+      "question": "raise your hand?",
+      "choice1": "Alza la mano",
+      "choice2": " rotorna alla sedia ",
+      "choice3": " Vieni qui!",
+      "choice4": "Va alla lavagna",
+      "answer": 1
+    },
+   {
+      "question": "return to your seat",
+     "choice1": "Alza la mano",
+      "choice2": " rotorna alla sedia ",
+      "choice3": " Vieni qui!",
+      "choice4": "Va alla lavagna",
+      "answer": 2
+    },    
+   {
+      "question": "come here",
+    "choice1": "Alza la mano",
+      "choice2": " rotorna alla sedia ",
+      "choice3": " Vieni qui!",
+      "choice4": "Va alla lavagna",
+      "answer": 3
+    },
+    {
+      "question": "go to the board",
+     "choice1": "Alza la mano",
+      "choice2": " rotorna alla sedia ",
+      "choice3": " Vieni qui!",
+      "choice4": "Va alla lavagna",
+      "answer": 4
+    },
+ {
+      "question": "Respond",
+      "choice1": "Rispondi!",
+      "choice2": "Ascolta!",
+      "choice3": "Prendi!",
+      "choice4": "Apri!",
+      "answer": 1
+    },
+    {
+      "question": "listen",
+      "choice1": "Rispondi!",
+      "choice2": "Ascolta!",
+      "choice3": "Prendi!",
+      "choice4": "Apri!",
+      "answer": 2
+    },
+  {
+      "question": "take",
+       "choice1": "Rispondi!",
+      "choice2": "Ascolta!",
+      "choice3": "Prendi!",
+      "choice4": "Apri!",
+      "answer": 3
+    },
+    {
+      "question": "open ",
+       "choice1": "Rispondi!",
+      "choice2": "Ascolta!",
+      "choice3": "Prendi!",
+      "choice4": "Apri!",
+      "answer": 4
+    },
+    {
+      "question": "touch the window",
+      "choice1": "Tocca la finestra!",
+      "choice2": "Tocca la porta",
+      "choice3": "Cammina alla finestra",
+      "choice4": "Cammina alla porta",
+      "answer": 1
+    },
+    {
+      "question": "touch the door",
+      "choice1": "Tocca la finestra!",
+      "choice2": "Tocca la porta",
+      "choice3": "Cammina alla finestra",
+      "choice4": "Cammina alla porta",
+      "answer": 2
+    },
+  {
+      "question": "walk to the window",
+      "choice1": "Tocca la finestra!",
+      "choice2": "Tocca la porta",
+      "choice3": "Cammina alla finestra",
+      "choice4": "Cammina alla porta",
+      "answer": 3
+    },
+    {
+      "question": "walk to the door ",
+       "choice1": "Tocca la finestra!",
+      "choice2": "Tocca la porta",
+      "choice3": "Cammina alla finestra",
+      "choice4": "Cammina alla porta",
+      "answer": 4
+    },
+    {
+      "question": "look at the board",
+      "choice1": "Guarda la lavagna",
+      "choice2": " Guarda la porta ",
+      "choice3": " Guarda la professoressa",
+      "choice4": "Guarda la finastra",
+      "answer": 1
+    },
+   {
+      "question": "look at the door",
+     "choice1": "Guarda la lavagna",
+      "choice2": " Guarda la porta ",
+      "choice3": " Guarda la professoressa",
+      "choice4": "Guarda la finastra",
+      "answer": 2
+    },    
+   {
+      "question": "look at the teacher",
+     "choice1": "Guarda la lavagna",
+      "choice2": " Guarda la porta ",
+      "choice3": " Guarda la professoressa",
+      "choice4": "Guarda la finastra",
+      "answer": 3
+    },
+    {
+      "question": "look at the window",
+     "choice1": "Guarda la lavagna",
+      "choice2": " Guarda la porta ",
+      "choice3": " Guarda la professoressa",
+      "choice4": "Guarda la finastra",
+      "answer": 4
+    }
+  ]
