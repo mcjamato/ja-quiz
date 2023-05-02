@@ -1,1 +1,108 @@
 
+
+ [
+    {
+      "question": " The ruling class",
+      "choice1": "patrician",
+      "choice2": "plebeian",
+      "choice3": "consul",
+      "choice4": "veto",
+      "answer": 1
+    },
+    {
+      "question": "Ordinary citizens",
+      "choice1": "patrician",
+      "choice2": "plebeian",
+      "choice3": "consul",
+      "choice4": "veto",
+      "answer": 2
+    },
+    {
+      "question": "head of government, usually",
+      "choice1": "patrician",
+      "choice2": "plebeian",
+      "choice3": "consul",
+      "choice4": "veto",
+      "answer": 3
+    },
+    {
+      "question": "to reject",
+     "choice1": "patrician",
+      "choice2": "plebeian",
+      "choice3": "consul",
+      "choice4": "veto",
+      "answer": 4
+    },
+    {
+      "question": "government officials who interpret the law and serve as judges",
+      "choice1": "praetor",
+      "choice2": "tribune",
+      "choice3": "dictator",
+      "choice4": "civic duty ",
+      "answer": 1
+    },
+    {
+      "question": "an elect official who protects the rights of ordinary citizens",
+      "choice1": "praetor",
+      "choice2": "tribune",
+      "choice3": "dictator",
+      "choice4": "civic duty ",
+      "answer": 2
+    },
+    {
+      "question": "A person granted absolute power",
+      "choice1": "praetor",
+      "choice2": "tribune",
+      "choice3": "dictator",
+      "choice4": "civic duty ",
+      "answer": 3
+    },
+    {
+      "question": "The idea that citizens have a responsibility to help their country",
+     "choice1": "praetor",
+      "choice2": "tribune",
+      "choice3": "dictator",
+      "choice4": "civic duty ",
+      "answer": 4
+    },
+    {
+      "question": "The ____________ was the ruling class on top officials of the Roman Republic",
+      "choice1": "Patricians",
+      "choice2": "Carthage.",
+      "choice3": " twelve tables",
+      "choice4": "cincinnatus",
+      "answer": 1
+    },
+    {
+      "question": "Rome fought ___________ in the punic wars.",
+      "choice1": "Patricians",
+      "choice2": "Carthage.",
+      "choice3": " twelve tables",
+      "choice4": "cincinnatus",
+      "answer": 2
+    },
+    {
+      "question": "The ____________ was Rome's first code of laws.",
+      "choice1": "Patricians",
+      "choice2": "Carthage.",
+      "choice3": " twelve tables",
+      "choice4": "cincinnatus",
+      "answer": 3
+    },
+    {
+      "question": "_____________ was a famous Roman dictator.",
+      "choice1": "Patricians",
+      "choice2": "Carthage.",
+      "choice3": " twelve tables",
+      "choice4": "cincinnatus",
+      "answer": 4
+    },
+    {
+      "question": "The _____________ went on strike to protest that they had no power in the government.",
+      "choice1": "Patricians",
+      "choice2": "Carthage.",
+      "choice3": " twelve tables",
+      "choice4": "plebeians",
+      "answer": 4
+    }  
+  ]
