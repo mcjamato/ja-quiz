@@ -1,0 +1,243 @@
+
+ [
+    {
+      "question": " showing the annoying quality of people who feel very pleased or satisfied with their abilities, achievements, etc",
+      "choice1": " smug  ",
+      "choice2": "inflict",
+      "choice3": "vagrant",
+      "choice4": "sustain ",
+      "answer": 1
+    },
+    {
+      "question": "to cause something unpleasant(bad) to be suffered ",
+      "choice1": " smug  ",
+      "choice2": "inflict",
+      "choice3": "vagrant",
+      "choice4": "sustain ",
+      "answer": 2
+    },
+    {
+      "question": " person who has no place to live and no job and who asks people for money",
+      "choice1": " smug  ",
+      "choice2": "inflict",
+      "choice3": "vagrant",
+      "choice4": "sustain ",
+      "answer": 3
+    },
+    {
+      "question": " to provide what is needed for (something or someone) to exist",
+       "choice1": " smug  ",
+      "choice2": "inflict",
+      "choice3": "vagrant",
+      "choice4": "sustain ",
+      "answer": 4
+    },
+    {
+      "question": " a feeling of doubt, worry, or fear",
+      "choice1": " qualm ",
+      "choice2": " melancholy",
+      "choice3": " predicament",
+      "choice4": " charisma ",
+      "answer": 1
+    },
+    {
+      "question": " feeling or showing sadness, very unhappy",
+      "choice1": " qualm ",
+      "choice2": " melancholy",
+      "choice3": " predicament",
+      "choice4": " charisma ",
+      "answer": 2
+    },
+    {
+      "question": " a difficult, unpleasant, or embarrassing situation",
+       "choice1": " qualm ",
+      "choice2": " melancholy",
+      "choice3": " predicament",
+      "choice4": " charisma ",
+      "answer": 3
+    },
+    {
+      "question": " a special charm or appeal that causes people to feel attracted and excited by someone",
+      "choice1": " qualm ",
+      "choice2": " melancholy",
+      "choice3": " predicament",
+      "choice4": " charisma ",
+      "answer": 4
+    },
+    {
+      "question": " a final demand; a promise that force or punishment will be used if someone does not do what is wanted",
+      "choice1": " ultimatum ",
+      "choice2": "  impede",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 1
+    },
+    {
+      "question": " a situation in which something happens later than it should",
+      "choice1": " ultimatum ",
+      "choice2": "  impede",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 2
+    },
+    {
+      "question": " a long journey full of adventures",
+       "choice1": " ultimatum ",
+      "choice2": "  impede",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 3
+    },
+    {
+      "question": " a copy that is not the original but appears the same",
+       "choice1": " ultimatum ",
+      "choice2": "  impede",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 4
+    },
+    {
+      "question": " to make loud noise or demands",
+      "choice1": "clamor ",
+      "choice2": "oblige",
+      "choice3": "vengeance",
+      "choice4": "vagrant",
+      "answer": 1
+    },
+    {
+      "question": " to make someone do something",
+      "choice1": "clamor ",
+      "choice2": "oblige",
+      "choice3": "vengeance",
+      "choice4": "vagrant",
+      "answer": 2
+    },
+    {
+      "question": "The act of taking revenge ( the act of doing something to hurt someone because that person did something that hurt you or someone else)",
+     "choice1": "clamor ",
+      "choice2": "oblige",
+      "choice3": "vengeance",
+      "choice4": "vagrant",
+      "answer": 3
+    },
+    { 
+      "question": " He had serious _________ about hiding the important information from the police",
+      "choice1": " vagrant ",
+      "choice2": "inflict",
+      "choice3": "smug",
+      "choice4": "qualms ",
+      "answer": 4
+    },
+    {
+      "question": " The ___________ did not work and often asks people for money ",
+     "choice1": " vagrant ",
+      "choice2": "inflict",
+      "choice3": "smug",
+      "choice4": "qualms ",
+      "answer": 1
+    },
+    {
+      "question": " They cannot destroy the village, but they can ____________ significant damage to the town",
+     "choice1": " vagrant ",
+      "choice2": "inflict",
+      "choice3": "smug",
+      "choice4": "qualms ",
+      "answer": 2
+    },
+    {
+      "question": " After scoring a touchdown, the _______ player did a celebratory dance. ",
+      "choice1": " vagrant ",
+      "choice2": "inflict",
+      "choice3": "smug",
+      "choice4": "qualms ",
+      "answer": 3
+    },
+    {
+      "question": " The teacher found it difficult to ____________ the children's interest in the new novel",
+      "choice1": " sustain ",
+      "choice2": "inflict",
+      "choice3": "smug",
+      "choice4": "qualms ",
+      "answer": 1
+    },
+    {
+      "question": " I gave my daughter an _____________ to clean her room or she loses her phone",
+     "choice1": " ultimatum",
+      "choice2": " predicament",
+      "choice3": " melancholy",
+      "choice4": " impede ",
+      "answer": 1
+    },
+    {
+      "question": " Many high school graduates find themselves in the _____________ of not being able to afford colleges",
+     "choice1": " ultimatum",
+      "choice2": " predicament",
+      "choice3": " melancholy",
+      "choice4": " impede ",
+      "answer": 2
+    },
+    {
+      "question": "  The depressing music suited her ____________ mood.",
+     "choice1": " ultimatum",
+      "choice2": " predicament",
+      "choice3": " melancholy",
+      "choice4": " impede ",
+      "answer": 3
+    },
+    {
+      "question": "  If I plan the party indoors, the rain will not _____________ our activities",
+      "choice1": " ultimatum",
+      "choice2": " predicament",
+      "choice3": " melancholy",
+      "choice4": " impede ",
+      "answer": 4
+    },
+    {
+      "question": " the women was so affected by the movie star's ______________ that she almost fainted when she met him",
+      "choice1": " charisma",
+      "choice2": " predicament",
+      "choice3": " melancholy",
+      "choice4": " impede ",
+      "answer": 1
+    },
+    {
+      "question": " We went to the party only to ____________ our old friends",
+       "choice1": " oblige ",
+      "choice2": "  clamor",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 1
+    },
+    {
+      "question": " The hungry children began to _________ for their dinner ",
+        "choice1": " oblige ",
+      "choice2": "  clamor",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 2
+    },
+    {
+      "question": "  During the ____________ across the country, the  pioneers faced many obstacles",
+       "choice1": " oblige ",
+      "choice2": "  clamor",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 3
+    },
+    {
+      "question": " The __________ of the Picasso painting was mistaken for the original",
+       "choice1": " oblige ",
+      "choice2": "  clamor",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 4
+    },
+    {
+      "question": " He swore __________________ against the men who stole his car",
+      "choice1": "  oblige ",
+      "choice2": "  vengeance",
+      "choice3": "  odyssey",
+      "choice4": "  replica",
+      "answer": 2
+    }
+  ]
