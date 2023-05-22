@@ -2,35 +2,35 @@
 
  [
     {
-      "question": " The ruling class",
-      "choice1": "patrician",
-      "choice2": "plebeian",
-      "choice3": "consul",
-      "choice4": "veto",
+      "question": " Large farming estates",
+      "choice1": "latifundia",
+      "choice2": "Pax Romana",
+      "choice3": "dictator",
+      "choice4": "praetors",
       "answer": 1
     },
     {
-      "question": "Ordinary citizens",
-      "choice1": "patrician",
-      "choice2": "plebeian",
-      "choice3": "consul",
-      "choice4": "veto",
+      "question": "Roman peace ",
+      "choice1": "latifundia",
+      "choice2": "Pax Romana",
+      "choice3": "dictator",
+      "choice4": "praetors",
       "answer": 2
     },
     {
-      "question": "head of government, usually",
-      "choice1": "patrician",
-      "choice2": "plebeian",
-      "choice3": "consul",
-      "choice4": "veto",
+      "question": "a ruler with complete control over the country",
+      "choice1": "latifundia",
+      "choice2": "Pax Romana",
+      "choice3": "dictator",
+      "choice4": "praetors",
       "answer": 3
     },
     {
-      "question": "to reject",
-     "choice1": "patrician",
-      "choice2": "plebeian",
-      "choice3": "consul",
-      "choice4": "veto",
+      "question": " government officials who interpreted Roman law and served as judges",
+      "choice1": "latifundia",
+      "choice2": "Pax Romana",
+      "choice3": "dictator",
+      "choice4": "praetors",
       "answer": 4
     },
     {
@@ -104,5 +104,69 @@
       "choice3": " twelve tables",
       "choice4": "plebeians",
       "answer": 4
-    }  
+    },  
+  {
+      "question": " to reject ",
+      "choice1": " veto ",
+      "choice2": " legions",
+      "choice3": " plebeians",
+      "choice4": " trumvirate",
+      "answer": 1
+    },
+    {
+      "question": " small groups of Roman soldiers ",
+       "choice1": " veto ",
+      "choice2": " legions",
+      "choice3": " plebeians",
+      "choice4": " trumvirate",
+      "answer": 2
+    },
+    {
+      "question": " the Roman working class",
+       "choice1": " veto ",
+      "choice2": " legions",
+      "choice3": " plebeians",
+      "choice4": " trumvirate",
+      "answer": 3
+    },
+    {
+      "question": " a group of three people who share equal political power",
+       "choice1": " veto ",
+      "choice2": " legions",
+      "choice3": " plebeians",
+      "choice4": " trumvirate",
+      "answer": 4
+    },
+  {
+      "question": " What is the Hagia Sophia ",
+      "choice1": " Church ",
+      "choice2": " Romulus Augustulus",
+      "choice3": " latins",
+      "choice4": " Etruscan Wall Paintings",
+      "answer": 1
+    },
+    {
+      "question": " In 476, what emperor was overthrown by Germanic tribes ",
+       "choice1": " Church ",
+      "choice2": " Romulus Augustulus",
+      "choice3": " latins",
+      "choice4": " Etruscan Wall Paintings",
+      "answer": 2
+    },
+    {
+      "question": " who were the original settlers of Rome?",
+       "choice1": " Church ",
+      "choice2": " Romulus Augustulus",
+      "choice3": " latins",
+      "choice4": " Etruscan Wall Paintings",
+      "answer": 3
+    },
+    {
+      "question": " what is fresco",
+        "choice1": " Church ",
+      "choice2": " Romulus Augustulus",
+      "choice3": " latins",
+      "choice4": " Etruscan Wall Paintings",
+      "answer": 4
+    }
   ]
