@@ -1,0 +1,292 @@
+{
+  [
+    {
+      "question": "il Padre",
+      "choice1": "father",
+      "choice2": "mother",
+      "choice3": "dad",
+      "choice4": "mom",
+      "answer": 1
+    },
+    {
+      "question": "Il Papa",
+      "choice1": "father",
+      "choice2": "mother",
+      "choice3": "dad",
+      "choice4": "mom",
+      "answer": 2
+    },
+    {
+      "question": "La Madre",
+      "choice1": "father",
+      "choice2": "mother",
+      "choice3": "dad",
+      "choice4": "mom",
+      "answer": 3
+    },
+    {
+      "question": "La Mamma",
+      "choice1": "father",
+      "choice2": "mother",
+      "choice3": "dad",
+      "choice4": "mom",
+      "answer": 4
+    },
+    {
+      "question": "I Genitori",
+      "choice1": "parents",
+      "choice2": "husband",
+      "choice3": "wife",
+      "choice4": "grandparents",
+      "answer": 1
+    },
+    {
+      "question": "Il Marito",
+      "choice1": "parents",
+      "choice2": "husband",
+      "choice3": "wife",
+      "choice4": "grandparents",
+      "answer": 2
+    },
+    {
+      "question": "La Moglie",
+      "choice1": "parents",
+      "choice2": "husband",
+      "choice3": "wife",
+      "choice4": "grandparents",
+      "answer": 3
+    },
+    {
+      "question": "I Nonni",
+      "choice1": "parents",
+      "choice2": "husband",
+      "choice3": "wife",
+      "choice4": "grandparents",
+      "answer": 4
+    },
+    {
+      "question": "Il Fratello",
+      "choice1": "brother",
+      "choice2": "sister",
+      "choice3": "son",
+      "choice4": "daughter",
+      "answer": 1
+    },
+    {
+      "question": "La Sorella",
+      "choice1": "brother",
+      "choice2": "sister",
+      "choice3": "son",
+      "choice4": "daughter",
+      "answer": 2
+    },
+    {
+      "question": "Il Figlio",
+      "choice1": "brother",
+      "choice2": "sister",
+      "choice3": "son",
+      "choice4": "daughter",
+      "answer": 3
+    },
+    {
+      "question": "La Figlia",
+      "choice1": "brother",
+      "choice2": "sister",
+      "choice3": "son",
+      "choice4": "daughter",
+      "answer": 4
+    },
+    {
+      "question": "Le Sorelle",
+      "choice1": "sisters",
+      "choice2": "brothers",
+      "choice3": "children",
+      "choice4": "twins",
+      "answer": 1
+    },
+    {
+      "question": "I Fratelli",
+      "choice1": "sisters",
+      "choice2": "brothers",
+      "choice3": "children",
+      "choice4": "twins",
+      "answer": 2
+    },
+    {
+      "question": "I Figli",
+      "choice1": "sisters",
+      "choice2": "brothers",
+      "choice3": "children",
+      "choice4": "twins",
+      "answer": 3
+    },
+    {
+      "question": "I Gemelli",
+      "choice1": "sisters",
+      "choice2": "brothers",
+      "choice3": "children",
+      "choice4": "twins",
+      "answer": 4
+    },
+    {
+      "question": "Il Nonno",
+      "choice1": "grandpa",
+      "choice2": "grandma",
+      "choice3": "male cousin",
+      "choice4": "female cousin",
+      "answer": 1
+    },
+    {
+      "question": "La Nonna",
+      "choice1": "grandpa",
+      "choice2": "grandma",
+      "choice3": "male cousin",
+      "choice4": "female cousin",
+      "answer": 2
+    },
+    {
+      "question": "Il Cugino",
+      "choice1": "grandpa",
+      "choice2": "grandma",
+      "choice3": "male cousin",
+      "choice4": "female cousin",
+      "answer": 3
+    },
+    {
+      "question": "La Cugina",
+      "choice1": "grandpa",
+      "choice2": "grandma",
+      "choice3": "male cousin",
+      "choice4": "female cousin",
+      "answer": 4
+    },
+    {
+      "question": "Lo Zio",
+      "choice1": "uncle",
+      "choice2": "aunt",
+      "choice3": "aunts and uncles",
+      "choice4": "people",
+      "answer": 1
+    },
+    {
+      "question": "La Zia",
+      "choice1": "uncle",
+      "choice2": "aunt",
+      "choice3": "aunts and uncles",
+      "choice4": "people",
+      "answer": 2
+    },
+    {
+      "question": "Gli Zii",
+      "choice1": "uncle",
+      "choice2": "aunt",
+      "choice3": "aunts and uncles",
+      "choice4": "people",
+      "answer": 3
+    },
+    {
+      "question": "Il cane",
+      "choice1": "dog",
+      "choice2": "cat",
+      "choice3": "nephew",
+      "choice4": "niece",
+      "answer": 1
+    },
+    {
+      "question": "Il Gatto",
+      "choice1": "dog",
+      "choice2": "cat",
+      "choice3": "nephew",
+      "choice4": "niece",
+      "answer": 2
+    },
+    {
+      "question": "Il Nipote",
+      "choice1": "dog",
+      "choice2": "cat",
+      "choice3": "nephew",
+      "choice4": "niece",
+      "answer": 3
+    },
+    {
+      "question": "La Nipote",
+      "choice1": "dog",
+      "choice2": "cat",
+      "choice3": "nephew",
+      "choice4": "niece",
+      "answer": 4
+    },
+    {
+      "question": "I Cugini",
+      "choice1": "male cousins",
+      "choice2": "female cousins",
+      "choice3": "people",
+      "choice4": "my",
+      "answer": 1
+    },
+    {
+      "question": "Le Cugine",
+      "choice1": "male cousins",
+      "choice2": "female cousins",
+      "choice3": "people",
+      "choice4": "my",
+      "answer": 2
+    },
+    {
+      "question": "Persona",
+      "choice1": "male cousins",
+      "choice2": "female cousins",
+      "choice3": "people",
+      "choice4": "my",
+      "answer": 3
+    },
+    {
+      "question": "Mio/Mia",
+      "choice1": "male cousins",
+      "choice2": "female cousins",
+      "choice3": "people",
+      "choice4": "my",
+      "answer": 4
+    },
+    {
+      "question": "I Miei / Le Mie",
+      "choice1": "mine",
+      "choice2": "yours ",
+      "choice3": "his ",
+      "choice4": "hers",
+      "answer": 1
+    },
+    {
+      "question": "Come si chiama ?",
+      "choice1": "how old are you?",
+      "choice2": "what is your name? ",
+      "choice3": "what are their names",
+      "choice4": "who is this?",
+      "answer": 2
+    },
+    {
+      "question": "Come si chiamano?",
+      "choice1": "how old are you?",
+      "choice2": "what is your name? ",
+      "choice3": "what are their names",
+      "choice4": "who is this?",
+      "answer": 3
+    },
+    {
+      "question": "Chi e` ? ",
+      "choice1": "who is ",
+      "choice2": "there are",
+      "choice3": "we are",
+      "choice4": "there is",
+      "answer": 1
+    },
+    {
+      "question": "Chi Sono?",
+      "choice1": "who is ",
+      "choice2": "there are",
+      "choice3": "we are",
+      "choice4": "there is",
+      "answer": 2
+    }
+  ]
+}
