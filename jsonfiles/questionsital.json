@@ -1,6 +1,4 @@
 [
-  
-  
       {
         "question": "Gli Abiti",
         "choice1": "clothing",
@@ -16,14 +14,16 @@
         "choice3": "skirt",
         "choice4": "shirt",
         "answer": 2
-      },{
+      },
+      {
         "question": "La Gonna",
         "choice1": "clothing",
         "choice2": "dress/suit",
         "choice3": "skirt",
         "choice4": "shirt",
         "answer": 3
-      },{
+      },
+      {
         "question": "La Camicia",
         "choice1": "clothing",
         "choice2": "dress/suit",
