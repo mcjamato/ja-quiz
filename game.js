@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch('jsonfiles/quizital.json')
+fetch('jsonfiles/questionsital.json')
     .then((res) => {
         return res.json();
     })
