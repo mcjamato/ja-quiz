@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Gli Abiti",
+    "answers": [
+      "clothing",
+      "dress/suit",
+      "skirt",
+      "shirt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Il Vestito",
+    "answers": [
+      "clothing",
+      "dress/suit",
+      "skirt",
+      "shirt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "La Gonna",
+    "answers": [
+      "clothing",
+      "dress/suit",
+      "skirt",
+      "shirt"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "La Camicia",
+    "answers": [
+      "clothing",
+      "dress/suit",
+      "skirt",
+      "shirt"
+    ],
+    "correctAnswer": 3
+  },
+    {
+    "question": "La Camicetta",
+    "answers": [
+      "blouse ",
+      "sweater",
+      "t-shirt",
+      "jacket"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "La Maglia",
+    "answers": [
+      "blouse ",
+      "sweater",
+      "t-shirt",
+      "jacket"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "La Maglietta",
+    "answers": [
+      "blouse ",
+      "sweater",
+      "t-shirt",
+      "jacket"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "La Giacca",
+    "answers": [
+      "blouse ",
+      "sweater",
+      "t-shirt",
+      "jacket"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "I Pantoloni",
+    "answers": [
+      "pants",
+      "socks",
+      "sandals",
+      "gloves"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "I Calzini",
+    "answers": [
+      "pants",
+      "socks",
+      "sandals",
+      "gloves"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "I Sandali",
+    "answers": [
+      "pants",
+      "socks",
+      "sandals",
+      "gloves"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "I Guanti",
+    "answers": [
+      "pants",
+      "socks",
+      "sandals",
+      "gloves"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Il Cappotto",
+    "answers": [
+      "coat",
+      "hat",
+      "belt",
+      "tie"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Il Cappello",
+    "answers": [
+      "coat",
+      "hat",
+      "belt",
+      "tie"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Il Cintura",
+    "answers": [
+      "coat",
+      "hat",
+      "belt",
+      "tie"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Il Cravatta",
+    "answers": [
+      "coat",
+      "hat",
+      "belt",
+      "tie"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "I Blue Jeans",
+    "answers": [
+      "Jeans",
+      "shorts",
+      "bathing suit",
+      "sneakers"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "I Pantaloni Corti",
+    "answers": [
+      "Jeans",
+      "shorts",
+      "bathing suit",
+      "sneakers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Il Costume da bagno",
+    "answers": [
+      "Jeans",
+      "shorts",
+      "bathing suit",
+      "sneakers"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Le Scarpe da tennis",
+    "answers": [
+      "Jeans",
+      "shorts",
+      "bathing suit",
+      "sneakers"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "La Borsa",
+    "answers": [
+      "pocketbook",
+      "umbrella",
+      "shoes",
+      "glasses"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "L'Ombrello",
+    "answers": [
+      "pocketbook",
+      "umbrella",
+      "shoes",
+      "glasses"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Le Scarpe",
+    "answers": [
+      "pocketbook",
+      "umbrella",
+      "shoes",
+      "glasses"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Gli Occhiali",
+    "answers": [
+      "pocketbook",
+      "umbrella",
+      "shoes",
+      "glasses"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Gli Occhiali da sole",
+    "answers": [
+      "sunglasses",
+      "raincoat",
+      "stockings",
+      "gloves"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "L'Impermeabile",
+    "answers": [
+      "sunglasses",
+      "raincoat",
+      "stockings",
+      "gloves"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "le calze",
+    "answers": [
+      "sunglasses",
+      "raincoat",
+      "stockings",
+      "gloves"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "I Guanti",
+    "answers": [
+      "sunglasses",
+      "raincoat",
+      "stockings",
+      "gloves"
+    ],
+    "correctAnswer": 0
+  }
+ ]
